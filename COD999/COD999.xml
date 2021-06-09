@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Codelijst xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="codelijst.xsd">
+    <CodelijstId>COD999</CodelijstId>
+    <Codelijstnaam>COD999: Voorkeur client</Codelijstnaam>
+    <Codelijstomschrijving>Gecodeerde aanduiding van de voorkeur van de client ten aanzien van plaats en/of vorm van zorglevering.</Codelijstomschrijving>
+    <Codelijstverwijzing>uri</Codelijstverwijzing>
+    <Codewaarden>
+        <Codewaarde>
+            <id>1</id>
+            <omschrijving>Functie in natura</omschrijving>
+            <ingangsdatum>2015-01-01</ingangsdatum>
+            <experiratiedatum>2018-04-01</experiratiedatum>
+            <mutatiedatum>2017-07-01</mutatiedatum>
+            <mutatie>vervallen</mutatie>
+        </Codewaarde>
+        <Codewaarde>
+            <id>2</id>
+            <omschrijving>Persoonsgebonden budget (PGB)</omschrijving>
+            <ingangsdatum>2015-01-01</ingangsdatum>
+        </Codewaarde>
+        <Codewaarde>
+            <id>3</id>
+            <omschrijving>Zorg thuis (niet nader gespecificeerd)</omschrijving>
+            <ingangsdatum>2015-01-01</ingangsdatum>
+        </Codewaarde>
+        <Codewaarde>
+            <id>4</id>
+            <omschrijving>Verblijf</omschrijving>
+            <ingangsdatum>2015-01-01</ingangsdatum>
+            <mutatiedatum>2017-07-01</mutatiedatum>
+            <mutatie>gewijzigd</mutatie>
+        </Codewaarde>
+        <Codewaarde>
+            <id>5</id>
+            <omschrijving>Volledig pakket thuis (VPT)</omschrijving>
+            <ingangsdatum>2015-01-01</ingangsdatum>
+        </Codewaarde>
+        <Codewaarde>
+            <id>6</id>
+            <omschrijving>Combinatie PGB/MPT</omschrijving>
+            <ingangsdatum>2015-01-01</ingangsdatum>
+        </Codewaarde>
+        <Codewaarde>
+            <id>7</id>
+            <omschrijving>Modulair pakket thuis (MPT)</omschrijving>
+            <ingangsdatum>2015-01-01</ingangsdatum>
+        </Codewaarde>
+        <Codewaarde>
+            <id>8</id>
+            <omschrijving>combinatie VPT/PGB</omschrijving>
+            <ingangsdatum>2020-01-01</ingangsdatum>
+            <mutatiedatum>2019-06-01</mutatiedatum>
+            <mutatie>toegevoegd</mutatie>
+        </Codewaarde>
+        <Codewaarde>
+            <id>9</id>
+            <omschrijving>combinatie Verblijf/PGB</omschrijving>
+            <ingangsdatum>2020-01-01</ingangsdatum>
+            <mutatiedatum>2019-06-01</mutatiedatum>
+            <mutatie>toegevoegd</mutatie>
+        </Codewaarde>
+        <Codewaarde>
+            <id>10</id>
+            <omschrijving>Deeltijdverblijf (DTV)</omschrijving>
+            <ingangsdatum>2021-01-01</ingangsdatum>
+            <mutatiedatum>2020-06-01</mutatiedatum>
+            <mutatie>toegevoegd</mutatie>
+        </Codewaarde>
+    </Codewaarden>
+</Codelijst>	

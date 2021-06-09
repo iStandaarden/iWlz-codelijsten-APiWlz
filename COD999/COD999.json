@@ -1,0 +1,75 @@
+{
+	"Codelijst": {
+		"CodelijstId" :"COD999",
+		"Codelijstnaam": "COD999: Voorkeur client",
+		"Codelijstomschrijving": "Gecodeerde aanduiding van de voorkeur van de client ten aanzien van plaats en/of vorm van zorglevering.",
+		"Codelijstverwijzing": "uri",
+		"Codewaarden": {
+			"Codewaarde": [
+				{
+					"id": "1",
+					"omschrijving": "Functie in natura",
+					"ingangsdatum": "2015-01-01",
+					"experiratiedatum": "2018-04-01",
+					"mutatiedatum": "2017-07-01",
+					"mutatie": "vervallen"
+				},
+				{
+					"id": "2",
+					"omschrijving": "Persoonsgebonden budget (PGB)",
+					"ingangsdatum": "2015-01-01"
+				},
+				{
+					"id": "3",
+					"omschrijving": "Zorg thuis (niet nader gespecificeerd)",
+					"ingangsdatum": "2015-01-01"
+				},
+				{
+					"id": "4",
+					"omschrijving": "Verblijf",
+					"ingangsdatum": "2015-01-01",
+					"mutatiedatum": "2017-07-01",
+					"mutatie": "gewijzigd"
+				},
+				{
+					"id": "5",
+					"omschrijving": "Volledig pakket thuis (VPT)",
+					"ingangsdatum": "2015-01-01"
+				},
+				{
+					"id": "6",
+					"omschrijving": "Combinatie PGB/MPT",
+					"ingangsdatum": "2015-01-01"
+				},
+				{
+					"id": "7",
+					"omschrijving": "Modulair pakket thuis (MPT)",
+					"ingangsdatum": "2015-01-01"
+				},
+				{
+					"id": "8",
+					"omschrijving": "combinatie VPT/PGB",
+					"ingangsdatum": "2020-01-01",
+					"mutatiedatum": "2019-06-01",
+					"mutatie": "toegevoegd"
+				},
+				{
+					"id": "9",
+					"omschrijving": "combinatie Verblijf/PGB",
+					"ingangsdatum": "2020-01-01",
+					"mutatiedatum": "2019-06-01",
+					"mutatie": "toegevoegd"
+				},
+				{
+					"id": "10",
+					"omschrijving": "Deeltijdverblijf (DTV)",
+					"ingangsdatum": "2021-01-01",
+					"mutatiedatum": "2020-06-01",
+					"mutatie": "toegevoegd"
+				}
+			]
+		},
+		"_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+		"_xsi:noNamespaceSchemaLocation": "codelijst.xsd"
+	}
+}

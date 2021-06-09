@@ -1,0 +1,31 @@
+{
+  "type": "object",
+  "properties": {
+    "Codelijst": {
+      "type": "object",
+      "properties": {
+        "CodelijstId": { "type": "String"},
+        "Codelijstnaam": { "type": "string" },
+        "Codelijstomschrijving": { "type": "string" },
+        "Codelijstverwijzing": { "type": "string" },
+        "Codewaarden": {
+          "type": "object",
+          "properties": {
+            "Codewaarde": {
+              "type": "object",
+              "properties": {
+                "id": { "type": "string" },
+                "omschrijving": { "type": "string" },
+                "ingangsdatum": { "type": "date" },
+                "experiratiedatum": { "type": "date" },
+                "mutatiedatum": { "type": "date" },
+                "mutatie": { "type": "string" },
+                "type": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
