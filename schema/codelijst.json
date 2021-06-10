@@ -1,31 +1,72 @@
 {
-  "type": "object",
-  "properties": {
-    "Codelijst": {
-      "type": "object",
-      "properties": {
-        "CodelijstId": { "type": "String"},
-        "Codelijstnaam": { "type": "string" },
-        "Codelijstomschrijving": { "type": "string" },
-        "Codelijstverwijzing": { "type": "string" },
-        "Codewaarden": {
-          "type": "object",
-          "properties": {
-            "Codewaarde": {
-              "type": "object",
-              "properties": {
-                "id": { "type": "string" },
-                "omschrijving": { "type": "string" },
-                "ingangsdatum": { "type": "date" },
-                "experiratiedatum": { "type": "date" },
-                "mutatiedatum": { "type": "date" },
-                "mutatie": { "type": "string" },
-                "type": { "type": "string" }
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "Codelijst": {
+        "type": "object",
+        "properties": {
+          "CodelijstId": {
+            "type": "string"
+          },
+          "Codelijstnaam": {
+            "type": "string"
+          },
+          "Codelijstomschrijving": {
+            "type": "string"
+          },
+          "Codelijstverwijzing": {
+            "type": "string"
+          },
+          "Codewaarden": {
+            "type": "array",
+            "items": [
+              {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "string"
+                  },
+                  "omschrijving": {
+                    "type": "string"
+                  },
+                  "ingangsdatum": {
+                    "type": "string",
+                    "format": "date"
+                  },
+                  "experiratiedatum": {
+                    "type": "string",
+                    "format": "date"
+                  },
+                  "mutatiedatum": {
+                    "type": "string",
+                    "format": "date"
+                  },
+                  "mutatie": {
+                    "type": "string",
+                    "enum": [
+                      "vervallen",
+                      "toegevoegd",
+                      "gewijzigd"
+                    ]
+                  }
+                },
+                "required": [
+                  "id",
+                  "omschrijving",
+                  "ingangsdatum"
+                ]
               }
-            }
+            ]
           }
-        }
+        },
+        "required": [
+          "CodelijstId",
+          "Codelijstnaam",
+          "Codelijstomschrijving"
+        ]
       }
-    }
+    },
+    "required": [
+      "Codelijst"
+    ]
   }
-}
