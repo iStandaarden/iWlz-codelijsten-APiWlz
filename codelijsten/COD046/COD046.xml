@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Codelijst xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="codelijst.xsd">
+    <CodelijstId>COD046</CodelijstId>
+    <Codelijstnaam>COD046: Geslacht</Codelijstnaam>
+    <Codelijstomschrijving>Unieke aanduiding van de sexe van een persoon.</Codelijstomschrijving>
+    <Codelijstverwijzing>uri</Codelijstverwijzing>
+    <Codewaarden>
+        <Codewaarde>
+            <id>0</id>
+            <omschrijving>Onbekend</omschrijving>
+            <ingangsdatum>2015-01-01</ingangsdatum>
+        </Codewaarde>
+        <Codewaarde>
+            <id>1</id>
+            <omschrijving>Mannelijk</omschrijving>
+            <ingangsdatum>2015-01-01</ingangsdatum>
+        </Codewaarde>
+        <Codewaarde>
+            <id>2</id>
+            <omschrijving>Vrouwelijk</omschrijving>
+            <ingangsdatum>2015-01-01</ingangsdatum>
+        </Codewaarde>
+    </Codewaarden>
+</Codelijst>
