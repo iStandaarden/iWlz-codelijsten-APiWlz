@@ -65,8 +65,6 @@
 		  "mutatiedatum": "2020-06-01",
 		  "mutatie": "toegevoegd"
 		}
-	  ],
-	  "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-	  "_xsi:noNamespaceSchemaLocation": "codelijst.xsd"
+	  ]
 	}
   }

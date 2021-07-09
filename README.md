@@ -1,6 +1,5 @@
-
-> **N.B. deze repostitory is enkel voor demonstratie doeleinden**
-
+# LET OP
+> **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**
 
 ## iWlz-codelijsten
-Codelijsten iStandaard iWlz - [volledige lijst](https://github.com/iStandaarden/iWlz-codelijsten/blob/main/iWlz-codelijsten.md)
+Codelijsten in gebruik bij iStandaard iWlz - [volledige lijst](https://github.com/iStandaarden/iWlz-codelijsten/blob/main/iWlz-codelijsten.md)

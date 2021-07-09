@@ -1,5 +1,7 @@
+> **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**
+
 |Codelijst |Omschrijving|
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+|:---------|:-----------|
 |COD001: Zorgkantoor|Code ter identificatie van de zorgkantoorregio.                                                                                                                |                                                                                                        |
 |COD032: Land|Identificatie van een (historisch/actueel) land of gebiedsdeel.                                                                                                       |                                                                                                        |
 |[COD046: Geslacht](/codelijsten/COD046)|Unieke aanduiding van de sexe van een persoon.                                                                                                                    |                                                                                                        |
