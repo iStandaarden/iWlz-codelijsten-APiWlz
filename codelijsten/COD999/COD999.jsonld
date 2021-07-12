@@ -1,5 +1,10 @@
 {
-    "@context": {
-        
-    }
+    "@context": "https://schema.org/",
+    "@type": "Enumeration",
+    "identifier": "Manu Sporny",
+    "name":"a",
+    "description":"",
+    "url": "https://manu.sporny.org/about/"
 }
+
+// https://schema.org/PropertyValue
