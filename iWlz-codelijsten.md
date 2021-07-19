@@ -2,7 +2,7 @@
 
 |Codelijst |Omschrijving|
 |:---------|:-----------|
-|COD001: Zorgkantoor|Code ter identificatie van de zorgkantoorregio.                                                                                                                |                                                                                                        |
+|[COD001: Zorgkantoor](/codelijsten/COD001)|Code ter identificatie van de zorgkantoorregio.                                                                                                                |                                                                                                        |
 |COD032: Land|Identificatie van een (historisch/actueel) land of gebiedsdeel.                                                                                                       |                                                                                                        |
 |[COD046: Geslacht](/codelijsten/COD046)|Unieke aanduiding van de sexe van een persoon.                                                                                                                    |                                                                                                        |
 |COD127: WzdVerklaring|Gecodeerde aanduiding van artikel 21-verklaring die aangeeft of de gevraagde opneming noodzakelijk is.                                                 |
