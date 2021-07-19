@@ -2,7 +2,7 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**
 
 # iStandaarden codelijsten
-|Codelijst |Omschrijving|[Actieprogramma-iWlz](https://github.com/iStandaarden/iWlz-codelijsten/blob/main/Ap-iWlz-codelijsten.md)|iWlz|iWmo|iJw|iEb|
+|Codelijst |Omschrijving|[Actieprogramma-iWlz](https://github.com/iStandaarden/iWlz-codelijsten/blob/main/iWlz-codelijsten.md)|iWlz|iWmo|iJw|iEb|
 |:---------|:-----------|:---|:---|:---|:--|:--|
 |	COD001	|	COD001: Zorgkantoor	|V|	iWlz_2.3	|		|		|		|
 |	COD002	|	COD002: Bericht	| |		|	iWmo_3.0	|	iJw_3.0	|		|
