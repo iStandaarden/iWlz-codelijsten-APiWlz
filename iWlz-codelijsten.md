@@ -53,5 +53,5 @@
 |[COD983: Toeslag overig](/codelijsten/COD983)|Andere reden (dan EKT en Beademingstoeslag) voor ophoging van het basisbudget voor het geindiceerde zorgprofiel.|
 |[COD998: Financiering](/codelijsten/COD998)|Codering die aangeeft op basis van welke regeling de zorg gefinancierd wordt.|
 |[COD999: Voorkeur client](/codelijsten/COD999)|Gecodeerde aanduiding van de voorkeur van de client ten aanzien van plaats en/of vorm van zorglevering.|
-|[COD1001: Voorkeur client](/codelijsten/COD1001)|type contactvorm|
+|[COD1001: Voorkeur contactwijze](/codelijsten/COD1001)|Gecodeerde aanduiding van de voorkeur van de client ten aanzien van de wijze waarop contact opgenomen kan worden.|
 |[NUM061: Aanduiding woonadres](/codelijsten/NUM061)|De aanduiding die wordt gebruikt voor adressen die niet zijn voorzien van de gebruikelijke straatnaam en huisnummeraanduidingen.|
