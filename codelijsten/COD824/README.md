@@ -1,6 +1,9 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**	
 # COD824: Vraag stoornis	
-	Gecodeerde aanduiding van de vraag over stoornissen.	
+	Gecodeerde aanduiding van de vraag over stoornissen.
+
+* [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
+
 |Codelijst|Id|Omschrijving|ingangsdatum|expiratiedatum|mutatiedatum|mutatie|	
 |:--|:--|:--|:--|:--|:--|:--|	
 |	COD824	|	0101	|	Orientatiestoornis - Orientatie in tijd: weten welke dag het is, etc.	|	2015-01-01	|		|		|		|

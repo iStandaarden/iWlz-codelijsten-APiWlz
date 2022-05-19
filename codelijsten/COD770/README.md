@@ -1,6 +1,9 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**	
 # COD770: Subcode diagnosecodelijst	
 	Code die aangeeft welke subcode van een diagnosecodelijst gebruikt is.	
+
+* [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
+
 |Codelijst|Id|Omschrijving|ingangsdatum|expiratiedatum|mutatiedatum|mutatie|	
 |:--|:--|:--|:--|:--|:--|:--|	
 |	COD770	|	01	|	Mentaal	|	2015-01-01	|		|		|		|

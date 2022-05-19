@@ -1,6 +1,9 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**	
 # COD757: Soort adres	
 	Nadere typering van het adres.	
+
+* [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
+
 |Codelijst|Id|Omschrijving|ingangsdatum|expiratiedatum|mutatiedatum|mutatie|	
 |:--|:--|:--|:--|:--|:--|:--|	
 |	COD757	|	01	|	BRP-adres	|	2015-01-01	|		|	2017-07-01	|	gewijzigd	|

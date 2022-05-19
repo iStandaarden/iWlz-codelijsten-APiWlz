@@ -1,6 +1,9 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**	
 # COD825: Vraag beperking	
 	Gecodeerde aanduiding van de vraag over beperking.	
+
+* [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
+
 |Codelijst|Id|Omschrijving|ingangsdatum|expiratiedatum|mutatiedatum|mutatie|	
 |:--|:--|:--|:--|:--|:--|:--|	
 |	COD825	|	0101	|	Sociale redzaamheid - Problemen oplossen, besluiten nemen en gevolgen inschatten	|	2015-01-01	|		|		|		|

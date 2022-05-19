@@ -1,6 +1,9 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**	
 # COD756: Klasse	
 	Gecodeerde aanduiding van de mate van zorg betreffende een functie, uitgedrukt in een klasse.	
+
+* [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
+
 |Codelijst|Id|Omschrijving|ingangsdatum|expiratiedatum|mutatiedatum|mutatie|	
 |:--|:--|:--|:--|:--|:--|:--|	
 |	COD756	|	99	|	niet van toepassing	|	2015-01-01	|		|		|		|

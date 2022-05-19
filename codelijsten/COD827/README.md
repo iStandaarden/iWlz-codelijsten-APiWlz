@@ -1,6 +1,9 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**	
 # COD827: Score vraag stoornis	
-	Gecodeerde aanduiding van de score op een vraag over een stoornis.	
+	Gecodeerde aanduiding van de score op een vraag over een stoornis.
+	
+* [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
+	
 |Codelijst|Id|Omschrijving|ingangsdatum|expiratiedatum|mutatiedatum|mutatie|	
 |:--|:--|:--|:--|:--|:--|:--|	
 |	COD827	|	0	|	Geen probleem/geen hulp van anderen nodig	|	2015-01-01	|		|		|		|

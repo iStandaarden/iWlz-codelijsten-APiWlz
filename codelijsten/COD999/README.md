@@ -2,6 +2,8 @@
 # COD999: Voorkeur client
 Gecodeerde aanduiding van de voorkeur van de client ten aanzien van plaats en/of vorm van zorglevering.
 
+* [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
+
 |Codelijst|Id|Omschrijving|ingangsdatum|expiratiedatum|mutatiedatum|mutatie|
 |:--|:--|:--|:--|:--|:--|:--|
 |	COD999	|	1	|	Functie in natura	|	2015-01-01	|	2018-04-01	|	2017-07-01	|	vervallen	|

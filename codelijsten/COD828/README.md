@@ -1,6 +1,9 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**	
 # COD828: Score beperking	
 	Gecodeerde aanduiding van de score op een vraag over een beperking.	
+
+* [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
+
 |Codelijst|Id|Omschrijving|ingangsdatum|expiratiedatum|mutatiedatum|mutatie|	
 |:--|:--|:--|:--|:--|:--|:--|	
 |	COD828	|	0	|	Kan deze activiteit zelf, er is geen hulp van een ander nodig	|	2015-01-01	|		|		|		|
