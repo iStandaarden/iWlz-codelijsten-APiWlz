@@ -35,7 +35,7 @@
 |[COD747: Communicatievorm](/codelijsten/COD747)|Gecodeerde aanduiding van de bijzondere vorm van communicatie die gebruikt dient te worden.|	V	|	V	|	V	|
 |[COD749: Duur](/codelijsten/COD749)|Code die aangeeft wat de verwachte duur is van de categorie beperking.|	V	|	V	|	V	|
 |[COD755: Etmalen](/codelijsten/COD755)|Gecodeerde aanduiding van het aantal etmalen verblijf per week.|	V	|	V	|		|
-|[COD756: Klasse](/codelijsten/COD756)|Gecodeerde aanduiding van de mate van zorg betreffende een functie, uitgedrukt in een klasse.|	V	|	V	|	V	|
+|[COD756: Klasse](/codelijsten/COD756)|Gecodeerde aanduiding van de mate van zorg betreffende een functie, uitgedrukt in een klasse.|	V	|		|		|
 |[COD757: Soort adres](/codelijsten/COD757)|Nadere typering van het adres.|	V	|	V	|	V	|
 |[COD770: Subcode diagnosecodelijst](/codelijsten/COD770)|Code die aangeeft welke subcode van een diagnosecodelijst gebruikt is.|	V	|	V	|	V	|
 |[COD824: Vraag stoornis](/codelijsten/COD824)|Gecodeerde aanduiding van de vraag over stoornissen.|	V	|	V	|	V	|
