@@ -16,7 +16,7 @@
 |[COD169: Soort indicatie](/codelijsten/COD169)|Codering voor het soort indicatiebesluit.|	V	|	V	|	V	|
 |[COD170: Datumgebruik](/codelijsten/COD170)|Codering om aan te geven welk deel van een datum onbekend is.|	V	|	V	|	V	|
 |[COD172: Reden intrekking](/codelijsten/COD172)|De reden waarom een toewijzing wordt ingetrokken.|	V	|	V	|		|
-|[COD232: Juridische status](/codelijsten/COD232)|Juridische situatie die voor de client van toepassing is op het moment van indicatiestelling.|	V	|	V	|		|
+|[COD232: Juridische status](/codelijsten/COD232)|Juridische situatie die voor de client van toepassing is op het moment van indicatiestelling.|		|		|		|
 |[COD260: Ja of nee](/codelijsten/COD260)|Codering voor ja of nee.|	V	|	V	|	V	|
 |[COD366: Burgerlijke staat](/codelijsten/COD366)|Unieke aanduiding die de rechtspositie van een client al dan niet in relatie tot één of meer personen beschrijft.|	V	|	V	|	V	|
 |[COD392: Diagnosecodelijst](/codelijsten/COD392)|Code die aangeeft welke diagnosecodelijst gebruikt is, met aanduiding van de oorsprong van de codes en/of de beheerder ervan.|	V	|	V	|	V	|
