@@ -27,7 +27,7 @@
 |[COD578: Leveringsvorm](/codelijsten/COD578)|Gecodeerde aanduiding van de vorm waarin de client de zorg wenst te ontvangen/ontvangt.|	V	|	V	|		|
 |[COD588: Mutatiecode](/codelijsten/COD588)|De reden van een mutatie/beeindiging van de Wlz-zorg bij client.|	V	|	V	|		|
 |[COD700: Naamgebruik](/codelijsten/COD700)|Aanduiding naamgebruik (gecodeerd).|	V	|	V	|	V	|
-|[COD732: Functie](/codelijsten/COD732)|Gecodeerde aanduiding van een (reeks van) activiteit(en) in functionele termen die losgekoppeld is van een bepaalde leverancier, waarbij wordt beschreven wat de inhoud en aard van die activiteit is in termen van hulpverlening (wonen, zorg en welzijn).|	V	|	V	|		|
+|[COD732: Functie](/codelijsten/COD732)|Gecodeerde aanduiding van een (reeks van) activiteit(en) in functionele termen die losgekoppeld is van een bepaalde leverancier, waarbij wordt beschreven wat de inhoud en aard van die activiteit is in termen van hulpverlening (wonen, zorg en welzijn).|	V	|		|		|
 |[COD736: Grondslag zorg](/codelijsten/COD736)|Codering die aangeeft wat ten grondslag ligt aan de zorg.|	V	|	V	|	V	|
 |[COD737: Prognose](/codelijsten/COD737)|Aanduiding welke prognose er is inzake het ziektebeeld of de stoornis.|	V	|	V	|	V	|
 |[COD740: Leveringsvoorwaarde zorg](/codelijsten/COD740)|Codering die aangeeft welke leveringsvoorwaarde van toepassing is voor de zorg.|	V	|	V	|		|
