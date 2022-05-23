@@ -7,7 +7,7 @@
 |[COD001: Zorgkantoor](/codelijsten/COD001)|Code ter identificatie van de zorgkantoorregio.|	V	|	V	|		|
 |[COD032: Land](/codelijsten/COD032)|Identificatie van een (historisch/actueel) land of gebiedsdeel.|	V	|	V	|	V	|
 |[COD046: Geslacht](/codelijsten/COD046)|Unieke aanduiding van de sexe van een persoon.|	V	|	V	|	V	|
-|[COD126: BOPZ](/codelijsten/COD126)|Een artikel 60-verklaring geeft aan of de gevraagde opneming noodzakelijk is.|	V	|	V	|		|
+|[COD126: BOPZ](/codelijsten/COD126)|Een artikel 60-verklaring geeft aan of de gevraagde opneming noodzakelijk is.|		|		|		|
 |[COD127: WzdVerklaring](/codelijsten/COD127)|Gecodeerde aanduiding van artikel 21-verklaring, die aangeeft of de gevraagde opneming noodzakelijk is.|	V	|	V	|	V	|
 |[COD163: Zorgzwaartepakket](/codelijsten/COD163)|Gecodeerde aanduiding van een zorgzwaartepakket.|	V	|	V	|	V	|
 |[COD165: Soort toewijzing](/codelijsten/COD165)|Indicatie van het soort toewijzing.|	V	|	V	|		|
