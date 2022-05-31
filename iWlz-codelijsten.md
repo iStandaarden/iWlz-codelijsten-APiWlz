@@ -2,7 +2,7 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**
 
 ## Codelijsten iWlz
-|Codelijst |Omschrijving|iWlz 2.3|iWlz 2.4|IR|
+|Codelijst |Omschrijving|iWlz 2.3|iWlz 2.4|IR^*^|
 |:---------|:-----------|:----|:----|:----|
 |[COD001: Zorgkantoor](/codelijsten/COD001)|Code ter identificatie van de zorgkantoorregio.|	V	|	V	|		|
 |[COD032: Land](/codelijsten/COD032)|Identificatie van een (historisch/actueel) land of gebiedsdeel.|	V	|	V	|	V	|
@@ -54,3 +54,5 @@
 |[COD998: Financiering](/codelijsten/COD998)|Codering die aangeeft op basis van welke regeling de zorg gefinancierd wordt.|	V	|	V	|	V	|
 |[COD999: Voorkeur client](/codelijsten/COD999)|Gecodeerde aanduiding van de voorkeur van de client ten aanzien van plaats en/of vorm van zorglevering.|	V	|	V	|	V	|
 |[NUM061: Aanduiding woonadres](/codelijsten/NUM061)|De aanduiding die wordt gebruikt voor adressen die niet zijn voorzien van de gebruikelijke straatnaam en huisnummeraanduidingen.|	V	|	V	|		|
+
+^*^ IR = Indicatieregister

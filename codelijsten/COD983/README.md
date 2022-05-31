@@ -12,5 +12,6 @@
 |	COD983	|	7	|	Combinatie van EKT en extra behandeling	|	2020-01-01	|		|	2019-06-01	|	toegevoegd	|
 |	COD983	|	8	|	Thuiswonend kind met ontwikkelperspectief < 18 jaar	|	2020-01-01	|		|	2020-06-01	|	toegevoegd	|
 |	COD983	|	9	|	Maatwerk in verband met dure dagbesteding, dagbehandeling en/of individuele behandeling	|	2021-01-01	|		|	2020-10-01	|	gewijzigd	|
+|   COD983	|  10	|   Logeren |	2023-01-01	||	2022-07-01	|Toegevoegd|
 
 * [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
