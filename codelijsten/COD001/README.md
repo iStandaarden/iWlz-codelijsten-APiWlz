@@ -1,6 +1,6 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**
 # COD001: Zorgkantoor
-Code ter identificatie van de zorgkantoorregio.
+    Code ter identificatie van de zorgkantoorregio.
 
 |Codelijst|Id|Omschrijving|ingangsdatum|expiratiedatum|mutatiedatum|mutatie|
 |:--|:--|:--|:--|:--|:--|:--|
