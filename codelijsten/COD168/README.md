@@ -25,3 +25,4 @@ Gecodeerde aanduiding van een nadere classificatie van een leveringsstatus
 |	COD168	|	17	|	Specifieke geografische redenen	|	2021-01-01	|		|	2020-06-01	|	toegevoegd	|
 |	COD168	|	18	|	Doorstroom naar geclusterd wonen VPT	|	2021-01-01	|		|	2020-06-01	|	toegevoegd	|
 |	COD168	|	19	|	Geen aanvullende wens(en)	|	2021-01-01	|		|	2020-06-01	|	toegevoegd	|
+|	COD168	|	20	|	Doorstroom klinische GGZ	|	2023-01-01	|		|	2022-07-01	|	toegevoegd	|
