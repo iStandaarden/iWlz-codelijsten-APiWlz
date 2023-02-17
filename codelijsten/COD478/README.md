@@ -1,6 +1,7 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**	
 # COD478: Leefeenheid	
-	Gecodeerde aanduiding van de leefsituatie van een client.	
+	Gecodeerde aanduiding van de leefsituatie van een client.
+	datatype: String
 |Codelijst|Id|Omschrijving|ingangsdatum|expiratiedatum|mutatiedatum|mutatie|	
 |:--|:--|:--|:--|:--|:--|:--|
 |	COD478	|	1	|	WOONT ALLEEN EN ZELFSTANDIG (EENPERSOONSHUISHOUDEN)	|	2015-01-01	|		|		|		|
