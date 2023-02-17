@@ -1,6 +1,7 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**
 # COD172: Reden intrekking	
-De reden waarom een toewijzing wordt ingetrokken.
+  De reden waarom een toewijzing wordt ingetrokken.
+  datatype: String
 
 * [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
 
