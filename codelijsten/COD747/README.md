@@ -1,6 +1,7 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**	
 # COD747: Communicatievorm	
-	Gecodeerde aanduiding van de bijzondere vorm van communicatie die gebruikt dient te worden.	
+	Gecodeerde aanduiding van de bijzondere vorm van communicatie die gebruikt dient te worden.
+	datatype: String
 
 * [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
 
