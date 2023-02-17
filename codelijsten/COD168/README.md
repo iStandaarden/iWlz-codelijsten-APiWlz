@@ -1,6 +1,7 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**
 # COD168: Leveringsstatus Classificatie	
-Gecodeerde aanduiding van een nadere classificatie van een leveringsstatus
+    Gecodeerde aanduiding van een nadere classificatie van een leveringsstatus
+    datatype: String
 
 * [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
 
