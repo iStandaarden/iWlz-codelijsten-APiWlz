@@ -1,6 +1,7 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**	
 # COD755: Etmalen	
 	Gecodeerde aanduiding van het aantal etmalen verblijf per week.	
+	datatype: String
 
 * [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
 
