@@ -1,6 +1,7 @@
 > **!! deze repostitory betreft een ontwikkelversie - niet geschikt voor implementatie !!**
 # COD167: Leveringsstatus	
-De leveringsstatus waarmee wordt aangegeven wat de status van de geleverde zorg is.
+    De leveringsstatus waarmee wordt aangegeven wat de status van de geleverde zorg is.
+    datatype: String
 
 * [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
 
