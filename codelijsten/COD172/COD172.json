@@ -1,0 +1,54 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD172",
+        "Codelijstnaam": "COD172: Reden intrekking",
+        "Codelijstomschrijving": "De reden waarom een toewijzing wordt ingetrokken.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "1",
+                "omschrijving": "Client overleden",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "2",
+                "omschrijving": "Negatief indicatiebesluit",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "3",
+                "omschrijving": "Herindicatie",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "4",
+                "omschrijving": "Overplaatsing",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "5",
+                "omschrijving": "Wijziging leveringsvorm",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "6",
+                "omschrijving": "Uitstroom",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "7",
+                "omschrijving": "Andere aanbieder heeft de client in zorg genomen",
+                "ingangsdatum": "2018-04-01",
+                "mutatiedatum": "2017-07-01",
+                "mutatie": "toegevoegd"
+            },
+            {
+                "id": "8",
+                "omschrijving": "Verhuizing",
+                "ingangsdatum": "2018-04-01",
+                "mutatiedatum": "2017-07-01",
+                "mutatie": "toegevoegd"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD260",
+        "Codelijstnaam": "COD260: Ja of nee",
+        "Codelijstomschrijving": "Codering voor ja of nee.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "1",
+                "omschrijving": "Ja",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "2",
+                "omschrijving": "Nee",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

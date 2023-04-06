@@ -1,0 +1,35 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD828",
+    "Codelijstnaam": "COD828: Score beperking",
+    "Codelijstomschrijving": "Gecodeerde aanduiding van de score op een vraag over een beperking.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "0",
+        "omschrijving": "Kan deze activiteit zelf, er is geen hulp van een ander nodig",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "1",
+        "omschrijving": "Kan het zelf, maar iemand anders moet toezien of stimuleren",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "2",
+        "omschrijving": "Kan dit slechts met veel moeite/iemand anders moet helpen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "3",
+        "omschrijving": "Kan dit niet zelfstandig/iemand anders moet dit overnemen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9",
+        "omschrijving": "Niet beoordeeld",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

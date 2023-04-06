@@ -1,0 +1,35 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD737",
+    "Codelijstnaam": "COD737: Prognose",
+    "Codelijstomschrijving": "Aanduiding welke prognose er is inzake het ziektebeeld of de stoornis.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "1",
+        "omschrijving": "Uitzicht op volledig herstel binnen 1 jaar",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "2",
+        "omschrijving": "Uitzicht op gedeeltelijk herstel/verbetering binnen 1 jaar",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "3",
+        "omschrijving": "De gezondheidstoestand blijft hetzelfde",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "4",
+        "omschrijving": "Er wordt een verslechtering verwacht binnen 1 jaar",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "5",
+        "omschrijving": "Onbekend; prognose niet beschikbaar of niet mogelijk",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

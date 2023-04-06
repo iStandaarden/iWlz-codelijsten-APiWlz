@@ -1,0 +1,25 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD741",
+        "Codelijstnaam": "COD741: Vervoer",
+        "Codelijstomschrijving": "Indicatie over het van toepassing zijn van vervoer.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "1",
+                "omschrijving": "Vervoer nodig",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "2",
+                "omschrijving": "Vervoer niet nodig",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "9",
+                "omschrijving": "Onbekend",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

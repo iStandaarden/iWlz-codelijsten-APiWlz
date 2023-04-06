@@ -1,0 +1,30 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD169",
+    "Codelijstnaam": "COD169: Soort indicatie",
+    "Codelijstomschrijving": "Codering voor het soort indicatiebesluit.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "1",
+        "omschrijving": "CIZ indicatie",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "2",
+        "omschrijving": "BJZ indicatie",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "3",
+        "omschrijving": "CIZ/BJZ indicatie",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "4",
+        "omschrijving": "Experimenten",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

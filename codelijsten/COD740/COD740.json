@@ -1,0 +1,35 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD740",
+        "Codelijstnaam": "COD740: Leveringsvoorwaarde zorg",
+        "Codelijstomschrijving": "Codering die aangeeft welke leveringsvoorwaarde van toepassing is voor de zorg.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "1",
+                "omschrijving": "Volgens afspraak op geplande tijden",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "2",
+                "omschrijving": "Volgens afspraak + direct oproepbaar (toezicht op afstand)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "3",
+                "omschrijving": "Voortdurend in de nabijheid (toezicht in nabijheid)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "4",
+                "omschrijving": "24 uur per dag (toezicht steeds actief)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "8",
+                "omschrijving": "Onbekend",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

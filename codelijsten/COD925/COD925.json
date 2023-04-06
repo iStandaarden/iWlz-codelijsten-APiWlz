@@ -1,0 +1,305 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD925",
+        "Codelijstnaam": "COD925: ICF",
+        "Codelijstomschrijving": "Diagnosecodes iWlz",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "b110",
+                "omschrijving": "Bewustzijn",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b114",
+                "omschrijving": "Orientatie",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b117",
+                "omschrijving": "Intellectuele functies",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b122",
+                "omschrijving": "Globale psychosociale functies",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b126",
+                "omschrijving": "Temperament en persoonlijkheid",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b130",
+                "omschrijving": "Energie en driften",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b134",
+                "omschrijving": "Slaap",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b139",
+                "omschrijving": "Algemene mentale functies (niet gespecificeerd)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b140",
+                "omschrijving": "Aandacht",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b144",
+                "omschrijving": "Geheugen",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b147",
+                "omschrijving": "Psychomotorische functies",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b152",
+                "omschrijving": "Stemming",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b156",
+                "omschrijving": "Perceptie",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b160",
+                "omschrijving": "Denken",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b164",
+                "omschrijving": "Hogere cognitieve functies",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b199",
+                "omschrijving": "Mentale functies (niet gespecificeerd)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b210",
+                "omschrijving": "Visuele functies",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b215",
+                "omschrijving": "Functies van aan oog verwante structuren",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b220",
+                "omschrijving": "Gewaarwordingen van oog en aanverwanten",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b229",
+                "omschrijving": "Visuele en verwante functies (niet gespecificeerd)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b230",
+                "omschrijving": "Hoorfuncties",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b235",
+                "omschrijving": "Vestibulaire functies",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b270",
+                "omschrijving": "Sensorische functies (pijn en andere stimuli)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b310",
+                "omschrijving": "Stem",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b320",
+                "omschrijving": "Articulatie",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b340",
+                "omschrijving": "Alternatieve vormen van stemgebruik",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b410",
+                "omschrijving": "Hartfuncties",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b415",
+                "omschrijving": "Functies van bloedvaten",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b420",
+                "omschrijving": "Bloeddruk",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b430",
+                "omschrijving": "Functies van hematologisch systeem",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b435",
+                "omschrijving": "Functies van afweersysteem",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b440",
+                "omschrijving": "Ademhaling",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b455",
+                "omschrijving": "Inspanningstolerantie",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b469",
+                "omschrijving": "Andere functies hart/ vaten/ ademhaling",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b510",
+                "omschrijving": "Opname van voedsel",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b515",
+                "omschrijving": "Vertering",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b525",
+                "omschrijving": "Defecatie",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b535",
+                "omschrijving": "Gewaarwordingen spijsverteringsstelsel",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b539",
+                "omschrijving": "Functies van spijsverteringstelsel (niet gespecificeerd)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b540",
+                "omschrijving": "Algemene metabole functies",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b545",
+                "omschrijving": "Water-, mineraal- en elektrolytenbalans",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b550",
+                "omschrijving": "Thermoregulatoire functies",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b555",
+                "omschrijving": "Functies van endocriene klieren",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b559",
+                "omschrijving": "Functies metabool-/ hormoonstelsel (niet gespecificeerd)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b610",
+                "omschrijving": "Productie en opslag van urine",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b620",
+                "omschrijving": "Functies gerelateerd aan urinelozing",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b639",
+                "omschrijving": "Functies gerelateerd aan urine (niet gespecificeerd)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b679",
+                "omschrijving": "Genitale en reproductieve functies",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b710",
+                "omschrijving": "Mobiliteit van gewrichten",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b715",
+                "omschrijving": "Stabiliteit van gewrichten",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b729",
+                "omschrijving": "Functies van gewrichten en botten",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b749",
+                "omschrijving": "Spierfuncties",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b750",
+                "omschrijving": "Motorische reflexfuncties",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b755",
+                "omschrijving": "Onwillekeurige bewegingsreacties",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b760",
+                "omschrijving": "Controle van willekeurige bewegingen",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b765",
+                "omschrijving": "Onwillekeurige bewegingen",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b789",
+                "omschrijving": "Bewegingsfuncties (niet gespecificeerd)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b849",
+                "omschrijving": "Functies van huid",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "b869",
+                "omschrijving": "Functies van haren en nagels",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

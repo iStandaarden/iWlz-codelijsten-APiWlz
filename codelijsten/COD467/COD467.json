@@ -1,0 +1,30 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD467",
+    "Codelijstnaam": "COD467: Status aanlevering",
+    "Codelijstomschrijving": "Indicatie over de status van de informatie in de berichtklasse.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "1",
+        "omschrijving": "Eerste aanlevering",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "2",
+        "omschrijving": "Gewijzigde aanlevering",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "3",
+        "omschrijving": "Verwijderen aanlevering",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9",
+        "omschrijving": "Niet van toepassing (ongewijzigd)",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD478",
+        "Codelijstnaam": "COD478: Leefeenheid",
+        "Codelijstomschrijving": "Gecodeerde aanduiding van de leefsituatie van een client.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "1",
+                "omschrijving": "WOONT ALLEEN EN ZELFSTANDIG (EENPERSOONSHUISHOUDEN)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "2",
+                "omschrijving": "WOONT ALS KIND SAMEN MET OUDER(S) IN OUDERLIJK HUIS",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "3",
+                "omschrijving": "HEEFT EEN ZELFSTANDIG HUISHOUDEN MET UITSLUITEND PARTNER",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "4",
+                "omschrijving": "HEEFT EEN HUISHOUDEN MET PARTNER EN THUISWONENDE KINDEREN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "5",
+                "omschrijving": "HEEFT EEN HUISHOUDEN VAN VOLWASSENE MET 1 OF MEER KINDEREN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "6",
+                "omschrijving": "EEN ANDER MEERPERSOONSHUISHOUDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "7",
+                "omschrijving": "WOONT IN EEN ZORGINSTELLING MET VERBLIJF",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "9",
+                "omschrijving": "ONBEKEND",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

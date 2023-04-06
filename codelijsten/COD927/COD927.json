@@ -1,0 +1,35 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD927",
+    "Codelijstnaam": "COD927: Auditief",
+    "Codelijstomschrijving": "Diagnosecodes iWlz",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "b230.1",
+        "omschrijving": "Lichte gehoorbeperking",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "b230.2",
+        "omschrijving": "Matige gehoorbeperking",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "b230.3",
+        "omschrijving": "(Zeer) ernstige gehoorbeperking",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "b230.4",
+        "omschrijving": "(Volledige) doofheid",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "b230.9",
+        "omschrijving": "Niet gespecificeerd",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

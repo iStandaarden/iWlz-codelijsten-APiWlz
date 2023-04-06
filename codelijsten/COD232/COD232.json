@@ -1,0 +1,106 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD232",
+    "Codelijstnaam": "COD232: Juridische status",
+    "Codelijstomschrijving": "Juridische situatie die voor de client van toepassing is op het moment van indicatiestelling.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "01",
+        "omschrijving": "Rechterlijke machtiging (rm) voorlopig / voortgezette machtiging",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "02",
+        "omschrijving": "RM op eigen verzoek",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "03",
+        "omschrijving": "RM met voorwaardelijk ontslag",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "04",
+        "omschrijving": "Onder toezichtstelling (ots)",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "05",
+        "omschrijving": "In bewaring stelling (ibs)",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "06",
+        "omschrijving": "Voogdij",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "07",
+        "omschrijving": "Bewindvoering",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "08",
+        "omschrijving": "Mentorschap",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "09",
+        "omschrijving": "Onder curatele stelling",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "10",
+        "omschrijving": "Zaakwaarneming",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "11",
+        "omschrijving": "Strafrechterlijke justitiele contacten: tbs",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "12",
+        "omschrijving": "Strafrechterlijke justitiele contacten: overig",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      }
+    ]
+  }
+}

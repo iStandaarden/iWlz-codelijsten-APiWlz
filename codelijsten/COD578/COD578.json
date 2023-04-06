@@ -1,0 +1,48 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD578",
+    "Codelijstnaam": "COD578: Leveringsvorm",
+    "Codelijstomschrijving": "Gecodeerde aanduiding van de vorm waarin de client de zorg wenst te ontvangen/ontvangt.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "2",
+        "omschrijving": "Persoonsgebonden budget (PGB)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "4",
+        "omschrijving": "Verblijf",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "5",
+        "omschrijving": "Volledig pakket thuis (VPT)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "7",
+        "omschrijving": "Modulair Pakket Thuis (MPT)",
+        "ingangsdatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "8",
+        "omschrijving": "Deeltijdverblijf (DTV)",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9",
+        "omschrijving": "Verkeerde bed (VKB)",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      }
+    ]
+  }
+}

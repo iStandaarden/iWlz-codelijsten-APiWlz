@@ -1,0 +1,160 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD824",
+    "Codelijstnaam": "COD824: Vraag stoornis",
+    "Codelijstomschrijving": "Gecodeerde aanduiding van de vraag over stoornissen.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "0101",
+        "omschrijving": "Orientatiestoornis - Orientatie in tijd: weten welke dag het is, etc.",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0102",
+        "omschrijving": "Orientatiestoornis - Orientatie naar plaats: weten waar je bent",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0103",
+        "omschrijving": "Orientatiestoornis - Orientatie in ruimte: de weg vinden in huis, en omgeving",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0104",
+        "omschrijving": "Orientatiestoornis - Orientatie in persoon: weten wie je bent, wie anderen zijn",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0201",
+        "omschrijving": "Psychosociale functies - Concentratie",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0202",
+        "omschrijving": "Psychosociale functies - Geheugen en denken",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0203",
+        "omschrijving": "Psychosociale functies - Perceptie van omgeving (-vertekende)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0204",
+        "omschrijving": "Psychosociale functies - Motivatie (lusteloos, geen initiatief)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0301",
+        "omschrijving": "Motorisch functioneren - Gebruik van rechterarm, linkerarm",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0302",
+        "omschrijving": "Motorisch functioneren - Gebruik van rechterhand, linkerhand",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0303",
+        "omschrijving": "Motorisch functioneren - Gebruik van rechterbeen, linkerbeen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0304",
+        "omschrijving": "Motorisch functioneren - Gebruik van rechtervoet, linkervoet",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0305",
+        "omschrijving": "Motorisch functioneren - Handhaving hoofdbalans",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0306",
+        "omschrijving": "Motorisch functioneren - Handhaving rompbalans",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0401",
+        "omschrijving": "Probleemgedrag/veiligheid - Zelfverwondend of zelfbeschadigend gedrag",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0402",
+        "omschrijving": "Probleemgedrag/veiligheid - Verbaal agressief gedrag",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0403",
+        "omschrijving": "Probleemgedrag/veiligheid - Lichamelijk agressief gedrag",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0404",
+        "omschrijving": "Probleemgedrag/veiligheid - Destructief gedrag (vernielen, brandstichten, stelen)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0405",
+        "omschrijving": "Probleemgedrag/veiligheid - Manipulatief gedrag (dwarsliggen, negeren, weglopen)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0406",
+        "omschrijving": "Probleemgedrag/veiligheid - Dwangmatig gedrag (niet willen spreken, eten, bewegen)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0407",
+        "omschrijving": "Probleemgedrag/veiligheid - Grensoverschrijdend seksueel gedrag",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0501",
+        "omschrijving": "Verslavingsproblemen - Gebruik van softdrugs",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0502",
+        "omschrijving": "Verslavingsproblemen - Gebruik van harddrugs",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0503",
+        "omschrijving": "Verslavingsproblemen - Gebruik van alcohol",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0504",
+        "omschrijving": "Verslavingsproblemen - Verslavingsproblemen anders",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0601",
+        "omschrijving": "Psychosociaal welbevinden - Angstig zijn",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0602",
+        "omschrijving": "Psychosociaal welbevinden - Moedeloos zijn (\"depressief\")",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0603",
+        "omschrijving": "Psychosociaal welbevinden - Belangstelling en betrokkenheid",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0604",
+        "omschrijving": "Psychosociaal welbevinden - Gemis van persoonlijke relaties",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0605",
+        "omschrijving": "Psychosociaal welbevinden - Gemis van gewaardeerde sociale rollen",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD165",
+    "Codelijstnaam": "COD165: Soort toewijzing",
+    "Codelijstomschrijving": "Indicatie van het soort toewijzing.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      { "id": "1", "omschrijving": "Regulier", "ingangsdatum": "2015-01-01" },
+      {
+        "id": "2",
+        "omschrijving": "Alternatief",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "3",
+        "omschrijving": "Overbrugging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "4",
+        "omschrijving": "Transfer",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "5",
+        "omschrijving": "Administratief",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

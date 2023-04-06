@@ -1,0 +1,13 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD046",
+    "Codelijstnaam": "COD046: Geslacht",
+    "Codelijstomschrijving": "Unieke aanduiding van de sexe van een persoon.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      { "id": "0", "omschrijving": "Onbekend", "ingangsdatum": "2015-01-01" },
+      { "id": "1", "omschrijving": "Mannelijk", "ingangsdatum": "2015-01-01" },
+      { "id": "2", "omschrijving": "Vrouwelijk", "ingangsdatum": "2015-01-01" }
+    ]
+  }
+}

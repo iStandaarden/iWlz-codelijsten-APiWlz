@@ -1,0 +1,35 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD827",
+    "Codelijstnaam": "COD827: Score vraag stoornis",
+    "Codelijstomschrijving": "Gecodeerde aanduiding van de score op een vraag over een stoornis.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "0",
+        "omschrijving": "Geen probleem/geen hulp van anderen nodig",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "1",
+        "omschrijving": "Wel probleem: af en toe hulp, toezicht of sturing nodig",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "2",
+        "omschrijving": "Wel probleem: vaak hulp, toezicht of sturing nodig",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "3",
+        "omschrijving": "Wel probleem: continu hulp, toezicht of sturing nodig",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9",
+        "omschrijving": "Niet beoordeeld",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

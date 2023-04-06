@@ -1,0 +1,50 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD366",
+        "Codelijstnaam": "COD366: Burgerlijke staat",
+        "Codelijstomschrijving": "Unieke aanduiding die de rechtspositie van een client al dan niet in relatie tot één of meer personen beschrijft.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "1",
+                "omschrijving": "Ongehuwd en geen geregistreerd partner en nooit gehuwd of geregistreerd partner geweest",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "2",
+                "omschrijving": "Gehuwd",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "3",
+                "omschrijving": "Gescheiden",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "4",
+                "omschrijving": "Weduwe/weduwnaar",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "5",
+                "omschrijving": "Geregistreerd partner",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "6",
+                "omschrijving": "Gescheiden geregistreerd partner",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "7",
+                "omschrijving": "Achtergebleven geregistreerd partner",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "9",
+                "omschrijving": "Ongehuwd en geen geregistreerd partner, eventueel wel gehuwd of geregistreerd partner geweest",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

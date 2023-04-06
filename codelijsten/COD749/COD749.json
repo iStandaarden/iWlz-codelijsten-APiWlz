@@ -1,0 +1,30 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD749",
+    "Codelijstnaam": "COD749: Duur",
+    "Codelijstomschrijving": "Code die aangeeft wat de verwachte duur is van de categorie beperking.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "1",
+        "omschrijving": "Korter dan drie maanden",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "2",
+        "omschrijving": "Drie tot zes maanden",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "3",
+        "omschrijving": "Zes tot twaalf maanden",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "4",
+        "omschrijving": "Langer dan een jaar",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

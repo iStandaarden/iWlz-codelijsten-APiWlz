@@ -1,0 +1,1255 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD032",
+        "Codelijstnaam": "COD032: Land",
+        "Codelijstomschrijving": "Identificatie van een (historisch/actueel) land of gebiedsdeel.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "AD",
+                "omschrijving": "ANDORRA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AE",
+                "omschrijving": "VERENIGDE ARABISCHE EMIRATEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AF",
+                "omschrijving": "AFGHANISTAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AG",
+                "omschrijving": "ANTIGUA EN BARBUDA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AI",
+                "omschrijving": "ANGUILA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AL",
+                "omschrijving": "ALBANIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AM",
+                "omschrijving": "ARMENIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AO",
+                "omschrijving": "ANGOLA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AQ",
+                "omschrijving": "ANTARTICA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AR",
+                "omschrijving": "ARGENTINIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AS",
+                "omschrijving": "AMERIKAANS-SAMOA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AT",
+                "omschrijving": "OOSTENRIJK",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AU",
+                "omschrijving": "AUSTRALIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AW",
+                "omschrijving": "ARUBA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AX",
+                "omschrijving": "ÅLANDSEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "AZ",
+                "omschrijving": "AZERBEIDZJAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BA",
+                "omschrijving": "BOSNIE EN HERZEGOVINA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BB",
+                "omschrijving": "BARBADOS",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BD",
+                "omschrijving": "BANGLADESH",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BE",
+                "omschrijving": "BELGIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BF",
+                "omschrijving": "BURKINA FASO",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BG",
+                "omschrijving": "BULGARIJE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BH",
+                "omschrijving": "BAHREIN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BI",
+                "omschrijving": "BURUNDI",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BJ",
+                "omschrijving": "BENIN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BL",
+                "omschrijving": "SAINT BARTHÉLEMY",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BM",
+                "omschrijving": "BERMUDA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BN",
+                "omschrijving": "BRUNEI",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BO",
+                "omschrijving": "BOLIVIA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BQ",
+                "omschrijving": "BONAIRE, SINT EUSTATIUS en SABA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BR",
+                "omschrijving": "BRAZILIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BS",
+                "omschrijving": "BAHAMA'S",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BT",
+                "omschrijving": "BHUTAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BV",
+                "omschrijving": "BOUVET",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BW",
+                "omschrijving": "BOTSWANA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BY",
+                "omschrijving": "WIT-RUSLAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "BZ",
+                "omschrijving": "BELIZE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CA",
+                "omschrijving": "CANADA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CC",
+                "omschrijving": "COCOSEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CD",
+                "omschrijving": "CONGO-KINSHASA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CF",
+                "omschrijving": "CENTRAAL-AFRIKAANSE REPUBLIEK",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CG",
+                "omschrijving": "CONGO-BRAZZAVILLE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CH",
+                "omschrijving": "ZWITSERLAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CI",
+                "omschrijving": "IVOORKUST",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CK",
+                "omschrijving": "COOKEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CL",
+                "omschrijving": "CHILI",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CM",
+                "omschrijving": "KAMEROEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CN",
+                "omschrijving": "CHINA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CO",
+                "omschrijving": "COLOMBIA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CR",
+                "omschrijving": "COSTA RICA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CU",
+                "omschrijving": "CUBA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CV",
+                "omschrijving": "KAAPVERDIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CW",
+                "omschrijving": "CURAÇAO",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CX",
+                "omschrijving": "CHRISTMASEILAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CY",
+                "omschrijving": "CYPRUS",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "CZ",
+                "omschrijving": "TSJECHIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "DE",
+                "omschrijving": "DUITSLAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "DJ",
+                "omschrijving": "DJIBOUTI",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "DK",
+                "omschrijving": "DENEMARKEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "DM",
+                "omschrijving": "DOMINICA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "DO",
+                "omschrijving": "DOMINICAANSE REPUBLIEK",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "DZ",
+                "omschrijving": "ALGERIJE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "EC",
+                "omschrijving": "ECUADOR",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "EE",
+                "omschrijving": "ESTLAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "EG",
+                "omschrijving": "EGYPTE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "EH",
+                "omschrijving": "WESTELIJKE SAHARA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "ER",
+                "omschrijving": "ERITREA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "ES",
+                "omschrijving": "SPANJE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "ET",
+                "omschrijving": "ETHIOPIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "FI",
+                "omschrijving": "FINLAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "FJ",
+                "omschrijving": "FIJI",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "FK",
+                "omschrijving": "FALKLANDEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "FM",
+                "omschrijving": "MICRONESIA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "FO",
+                "omschrijving": "FAERÖER",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "FR",
+                "omschrijving": "FRANKRIJK",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GA",
+                "omschrijving": "GABON",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GB",
+                "omschrijving": "VERENIGD KONINKRIJK",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GD",
+                "omschrijving": "GRENADA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GE",
+                "omschrijving": "GEORGIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GF",
+                "omschrijving": "FRANS-GUYANA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GG",
+                "omschrijving": "GUERNSEY",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GH",
+                "omschrijving": "GHANA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GI",
+                "omschrijving": "GIBRALTAR",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GL",
+                "omschrijving": "GROENLAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GM",
+                "omschrijving": "GAMBIA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GN",
+                "omschrijving": "GUINEA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GP",
+                "omschrijving": "GUADELOUPE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GQ",
+                "omschrijving": "EQUATORIAAL-GUINEA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GR",
+                "omschrijving": "GRIEKENLAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GS",
+                "omschrijving": "ZUID-GEORGIE EN DE ZUIDELIJKE SANDWICHEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GT",
+                "omschrijving": "GUATEMALA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GU",
+                "omschrijving": "GUAM",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GW",
+                "omschrijving": "GUINEE-BISSAU",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "GY",
+                "omschrijving": "GUYANA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "HK",
+                "omschrijving": "HONGKONG",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "HM",
+                "omschrijving": "HEARD EN MCDONALDEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "HN",
+                "omschrijving": "HONDURAS",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "HR",
+                "omschrijving": "KROATIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "HT",
+                "omschrijving": "HAÏTI",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "HU",
+                "omschrijving": "HONGARIJE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "ID",
+                "omschrijving": "INDONESIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "IE",
+                "omschrijving": "IERLAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "IL",
+                "omschrijving": "ISRAEL",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "IM",
+                "omschrijving": "ISLE OF MAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "IN",
+                "omschrijving": "INDIA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "IO",
+                "omschrijving": "BRITS TERRITORIUM IN DE INDISCHE OCEAAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "IQ",
+                "omschrijving": "IRAK",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "IR",
+                "omschrijving": "IRAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "IS",
+                "omschrijving": "IJSLAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "IT",
+                "omschrijving": "ITALIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "JE",
+                "omschrijving": "JERSEY",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "JM",
+                "omschrijving": "JAMAICA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "JO",
+                "omschrijving": "JORDANIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "JP",
+                "omschrijving": "JAPAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "KE",
+                "omschrijving": "KENIA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "KG",
+                "omschrijving": "KIRGIZIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "KH",
+                "omschrijving": "CAMBODJA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "KI",
+                "omschrijving": "KIRIBATI",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "KM",
+                "omschrijving": "COMOREN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "KN",
+                "omschrijving": "SAINT KITTS EN NEVIS",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "KP",
+                "omschrijving": "NOORD-KOREA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "KR",
+                "omschrijving": "ZUID-KOREA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "KW",
+                "omschrijving": "KOEWEIT",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "KY",
+                "omschrijving": "CAYMANEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "KZ",
+                "omschrijving": "KAZACHSTAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "LA",
+                "omschrijving": "LAOS",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "LB",
+                "omschrijving": "LIBANON",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "LC",
+                "omschrijving": "SAINT LUCIA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "LI",
+                "omschrijving": "LIECHTENSTEIN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "LK",
+                "omschrijving": "SRI LANKA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "LR",
+                "omschrijving": "LIBERIA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "LS",
+                "omschrijving": "LESOTHO",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "LT",
+                "omschrijving": "LITOUWEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "LU",
+                "omschrijving": "LUXEMBURG",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "LV",
+                "omschrijving": "LETLAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "LY",
+                "omschrijving": "LIBIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MA",
+                "omschrijving": "MAROKKO",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MC",
+                "omschrijving": "MONACO",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MD",
+                "omschrijving": "MOLDAVIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "ME",
+                "omschrijving": "MONTENEGRO",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MF",
+                "omschrijving": "SAINT MARTIN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MG",
+                "omschrijving": "MADAGASKAR",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MH",
+                "omschrijving": "MARSHALLEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MK",
+                "omschrijving": "MACEDONIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "ML",
+                "omschrijving": "MALI",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MM",
+                "omschrijving": "MYANMAR",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MN",
+                "omschrijving": "MONGOLIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MO",
+                "omschrijving": "MACAU",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MP",
+                "omschrijving": "NOORDELIJKE MARIANEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MQ",
+                "omschrijving": "MARTINIQUE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MR",
+                "omschrijving": "MAURITANIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MS",
+                "omschrijving": "MONTSERRAT",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MT",
+                "omschrijving": "MALTA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MU",
+                "omschrijving": "MAURITIUS",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MV",
+                "omschrijving": "MALDIVEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MW",
+                "omschrijving": "MALAWI",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MX",
+                "omschrijving": "MEXICO",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MY",
+                "omschrijving": "MALEISIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "MZ",
+                "omschrijving": "MOZAMBIQUE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "NA",
+                "omschrijving": "NAMIBIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "NC",
+                "omschrijving": "NIEUW-CALEDONIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "NE",
+                "omschrijving": "NIGER",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "NF",
+                "omschrijving": "NORFOLK",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "NG",
+                "omschrijving": "NIGERIA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "NI",
+                "omschrijving": "NICARAGUA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "NL",
+                "omschrijving": "NEDERLAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "NO",
+                "omschrijving": "NOORWEGEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "NP",
+                "omschrijving": "NEPAL",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "NR",
+                "omschrijving": "NAURU",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "NU",
+                "omschrijving": "NIUE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "NZ",
+                "omschrijving": "NIEUW-ZEELAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "OM",
+                "omschrijving": "OMAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PA",
+                "omschrijving": "PANAMA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PE",
+                "omschrijving": "PERU",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PF",
+                "omschrijving": "FRANS-POLYNESIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PG",
+                "omschrijving": "PAPOEA-NIEUW-GUINEA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PH",
+                "omschrijving": "FILIPIJNEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PK",
+                "omschrijving": "PAKISTAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PL",
+                "omschrijving": "POLEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PM",
+                "omschrijving": "SAINT-PIERRE EN MIQUELON",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PN",
+                "omschrijving": "PITCAIRNEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PR",
+                "omschrijving": "PUERTO RICO",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PS",
+                "omschrijving": "PALESTIJNSE AUTORITEIT",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PT",
+                "omschrijving": "PORTUGAL",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PW",
+                "omschrijving": "PALAU",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "PY",
+                "omschrijving": "PARAGUAY",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "QA",
+                "omschrijving": "QATAR",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "RE",
+                "omschrijving": "RÉUNION",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "RO",
+                "omschrijving": "ROEMENIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "RS",
+                "omschrijving": "SERVIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "RU",
+                "omschrijving": "RUSLAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "RW",
+                "omschrijving": "RWANDA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SA",
+                "omschrijving": "SAOEDI-ARABIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SB",
+                "omschrijving": "SALOMONSEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SC",
+                "omschrijving": "SEYCHELLEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SD",
+                "omschrijving": "SOEDAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SE",
+                "omschrijving": "ZWEDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SG",
+                "omschrijving": "SINGAPORE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SH",
+                "omschrijving": "SINT-HELENA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SI",
+                "omschrijving": "SLOVENIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SJ",
+                "omschrijving": "SPITSBERGEN EN JAN MAYEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SK",
+                "omschrijving": "SLOWAKIJE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SL",
+                "omschrijving": "SIERRA LEONE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SM",
+                "omschrijving": "SAN MARINO",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SN",
+                "omschrijving": "SENEGAL",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SO",
+                "omschrijving": "SOMALIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SR",
+                "omschrijving": "SURINAME",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SS",
+                "omschrijving": "ZUID SOEDAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "ST",
+                "omschrijving": "SAO TOMÉ EN PRINCIPE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SV",
+                "omschrijving": "EL SALVADOR",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SX",
+                "omschrijving": "SINT MAARTEN (Nederlands deel)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SY",
+                "omschrijving": "SYRIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "SZ",
+                "omschrijving": "SWAZILAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TC",
+                "omschrijving": "TURKS- EN CAICOSEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TD",
+                "omschrijving": "TSJAAD",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TF",
+                "omschrijving": "FRANSE ZUIDELIJKE EN ANTARCTISCHE GEBIEDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TG",
+                "omschrijving": "TOGO",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TH",
+                "omschrijving": "THAILAND",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TJ",
+                "omschrijving": "TADZJIKISTAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TK",
+                "omschrijving": "TOKELAU",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TL",
+                "omschrijving": "OOST-TIMOR",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TM",
+                "omschrijving": "TURKMENISTAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TN",
+                "omschrijving": "TUNESIE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TO",
+                "omschrijving": "TONGA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TR",
+                "omschrijving": "TURKIJE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TT",
+                "omschrijving": "TRINIDAD EN TOBAGO",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TV",
+                "omschrijving": "TUVALU",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TW",
+                "omschrijving": "TAIWAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "TZ",
+                "omschrijving": "TANZANIA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "UA",
+                "omschrijving": "OEKRAINE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "UG",
+                "omschrijving": "OEGANDA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "UM",
+                "omschrijving": "KLEINE PACIFISCHE EILANDEN VAN DE VERENIGDE STATEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "US",
+                "omschrijving": "VERENIGDE STATEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "UY",
+                "omschrijving": "URUGUAY",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "UZ",
+                "omschrijving": "OEZBEKISTAN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "VA",
+                "omschrijving": "VATICAANSTAD",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "VC",
+                "omschrijving": "SAINT VINCENT EN DE GRENADINES",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "VE",
+                "omschrijving": "VENEZUELA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "VG",
+                "omschrijving": "BRITSE MAAGDENEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "VI",
+                "omschrijving": "AMERIKAANSE MAAGDENEILANDEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "VN",
+                "omschrijving": "VIETNAM",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "VU",
+                "omschrijving": "VANUATU",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "WF",
+                "omschrijving": "WALLIS EN FUTUNA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "WS",
+                "omschrijving": "SAMOA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "YE",
+                "omschrijving": "JEMEN",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "YT",
+                "omschrijving": "MAYOTTE",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "ZA",
+                "omschrijving": "ZUID-AFRIKA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "ZM",
+                "omschrijving": "ZAMBIA",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "ZW",
+                "omschrijving": "ZIMBABWE",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

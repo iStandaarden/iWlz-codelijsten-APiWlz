@@ -1,0 +1,40 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD700",
+        "Codelijstnaam": "COD700: Naamgebruik",
+        "Codelijstomschrijving": "Aanduiding naamgebruik (gecodeerd).",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "1",
+                "omschrijving": "Eigen naam",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "2",
+                "omschrijving": "Naam echtgenoot of geregistreerd partner of alternatieve naam",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "3",
+                "omschrijving": "Naam echtgenoot of geregistreerd partner gevolgd door eigen naam",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "4",
+                "omschrijving": "Eigen naam gevolgd door naam echtgenoot of geregistreerd partner",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "5",
+                "omschrijving": "Pseudoniem",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "6",
+                "omschrijving": "Niet-natuurlijk persoon",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

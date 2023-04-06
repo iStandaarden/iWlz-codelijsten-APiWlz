@@ -1,0 +1,40 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD392",
+        "Codelijstnaam": "COD392: Diagnosecodelijst",
+        "Codelijstomschrijving": "Code die aangeeft welke diagnosecodelijst gebruikt is, met aanduiding van de oorsprong van de codes en/of de beheerder ervan.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "014",
+                "omschrijving": "Classificatie van ziekten (ZIN/ICD-10)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "019",
+                "omschrijving": "Diagnostic and statistical manual of mental disorders IV (DSM-IV).",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "021",
+                "omschrijving": "Internationale classificatie van functioneren (ICF)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "022",
+                "omschrijving": "IQ",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "023",
+                "omschrijving": "Visueel",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "024",
+                "omschrijving": "Auditief",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

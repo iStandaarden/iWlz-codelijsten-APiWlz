@@ -1,0 +1,25 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD170",
+    "Codelijstnaam": "COD170: Datumgebruik",
+    "Codelijstomschrijving": "Codering om aan te geven welk deel van een datum onbekend is.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "1",
+        "omschrijving": "dag onbekend; alleen maand en jaar gebruiken",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "2",
+        "omschrijving": "dag en maand onbekend; alleen jaar gebruiken",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "3",
+        "omschrijving": "dag, maand en jaar onbekend; onbekende datum",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

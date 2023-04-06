@@ -1,0 +1,35 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD926",
+    "Codelijstnaam": "COD926: Visueel",
+    "Codelijstomschrijving": "Diagnosecodes iWlz",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "b210.1",
+        "omschrijving": "Lichte visusbeperking",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "b210.2",
+        "omschrijving": "Matige visusbeperking",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "b210.3",
+        "omschrijving": "(Zeer) ernstige visusbeperking",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "b210.4",
+        "omschrijving": "(Functionele) blindheid",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "b210.9",
+        "omschrijving": "Niet gespecificeerd",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

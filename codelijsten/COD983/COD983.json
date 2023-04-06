@@ -1,0 +1,72 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD983",
+        "Codelijstnaam": "COD983: Toeslag overig",
+        "Codelijstomschrijving": "Andere reden (dan EKT en Beademingstoeslag) voor ophoging van het basisbudget voor het geindiceerde zorgprofiel.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "1",
+                "omschrijving": "Extra overbruggingszorg",
+                "ingangsdatum": "2015-01-01",
+                "mutatiedatum": "2020-10-01",
+                "mutatie": "gewijzigd"
+            },
+            {
+                "id": "10",
+                "omschrijving": "Logeren",
+                "ingangsdatum": "2023-01-01",
+                "mutatiedatum": "2022-07-01",
+                "mutatie": "Toegevoegd"
+            },
+            {
+                "id": "2",
+                "omschrijving": "Palliatief terminale zorg (PTZ)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "3",
+                "omschrijving": "Meerzorg",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "4",
+                "omschrijving": "Extra budget voor behandeling",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "5",
+                "omschrijving": "Overig",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "6",
+                "omschrijving": "Gespecialiseerd Verpleegkundig Handelen (GVH)",
+                "ingangsdatum": "2018-04-01",
+                "mutatiedatum": "2017-12-19",
+                "mutatie": "toegevoegd"
+            },
+            {
+                "id": "7",
+                "omschrijving": "Combinatie van EKT en extra behandeling",
+                "ingangsdatum": "2020-01-01",
+                "mutatiedatum": "2019-06-01",
+                "mutatie": "toegevoegd"
+            },
+            {
+                "id": "8",
+                "omschrijving": "Thuiswonend kind met ontwikkelperspectief < 18 jaar",
+                "ingangsdatum": "2020-01-01",
+                "mutatiedatum": "2020-06-01",
+                "mutatie": "toegevoegd"
+            },
+            {
+                "id": "9",
+                "omschrijving": "Maatwerk in verband met dure dagbesteding, dagbehandeling en/of individuele behandeling",
+                "ingangsdatum": "2021-01-01",
+                "mutatiedatum": "2020-10-01",
+                "mutatie": "gewijzigd"
+            }
+        ]
+    }
+}

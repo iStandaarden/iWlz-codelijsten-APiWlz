@@ -1,0 +1,52 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD588",
+    "Codelijstnaam": "COD588: Mutatiecode",
+    "Codelijstomschrijving": "De reden van een mutatie/beeindiging van de Wlz-zorg bij client.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "02",
+        "omschrijving": "Overlijden",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "12",
+        "omschrijving": "Client wil nu de zorg of ondersteuning (nog) niet",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "17",
+        "omschrijving": "Overplaatsing (er is een melding aanvang zorg of ondersteuning)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "18",
+        "omschrijving": "Aanbieder kan nu de zorg of ondersteuning nog niet leveren",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "19",
+        "omschrijving": "Levering zorg of ondersteuning is beeindigd - toewijzing sluiten",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "20",
+        "omschrijving": "Levering zorg of ondersteuning is beeindigd - toewijzing aanhouden",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "21",
+        "omschrijving": "Overdracht toewijzing (er is geen melding aanvang zorg of ondersteuning)",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

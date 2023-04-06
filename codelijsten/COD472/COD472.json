@@ -1,0 +1,125 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD472",
+        "Codelijstnaam": "COD472: Soort relatie",
+        "Codelijstomschrijving": "De soort relatie die een persoon ten opzichte van de client heeft.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "03",
+                "omschrijving": "Curator (juridisch)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "04",
+                "omschrijving": "Financieel (gemachtigd)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "05",
+                "omschrijving": "Financieel (toetsing)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "06",
+                "omschrijving": "Leefeenheid",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "07",
+                "omschrijving": "Hulpverlener",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "08",
+                "omschrijving": "Specialist",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "09",
+                "omschrijving": "Anders",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "10",
+                "omschrijving": "Ouder",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "11",
+                "omschrijving": "Voogd",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "12",
+                "omschrijving": "Partner/echtgeno(o)t(e)",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "13",
+                "omschrijving": "Pleegouder",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "14",
+                "omschrijving": "Bewindvoerder",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "15",
+                "omschrijving": "Mentor",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "16",
+                "omschrijving": "Zoon/dochter",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "17",
+                "omschrijving": "Familielid",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "18",
+                "omschrijving": "Gezinslid",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "19",
+                "omschrijving": "Buur",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "20",
+                "omschrijving": "Vriend(in)/kennis",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "21",
+                "omschrijving": "Clientondersteuner",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "22",
+                "omschrijving": "Huisarts",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "23",
+                "omschrijving": "Erven van",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "24",
+                "omschrijving": "Werkgever",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "25",
+                "omschrijving": "Wijkcoach",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

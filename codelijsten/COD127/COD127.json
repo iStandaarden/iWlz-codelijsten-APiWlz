@@ -1,0 +1,45 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD127",
+    "Codelijstnaam": "COD127: WzdVerklaring",
+    "Codelijstomschrijving": "Gecodeerde aanduiding van artikel 21-verklaring, die aangeeft of de gevraagde opneming noodzakelijk is.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "1",
+        "omschrijving": "Opname op basis van artikel 21 is aan de orde",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "2",
+        "omschrijving": "Opname op basis van artikel 21 is niet aan de orde",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "3",
+        "omschrijving": "Opname op basis van artikel 21 is niet aan de orde; er is sprake van bereidheid",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "4",
+        "omschrijving": "Opname op basis van artikel 21 is niet aan de orde; er is sprake van verzet",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9",
+        "omschrijving": "Onbekend",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      }
+    ]
+  }
+}

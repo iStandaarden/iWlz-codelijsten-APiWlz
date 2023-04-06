@@ -1,0 +1,45 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD736",
+    "Codelijstnaam": "COD736: Grondslag zorg",
+    "Codelijstomschrijving": "Codering die aangeeft wat ten grondslag ligt aan de zorg.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "01",
+        "omschrijving": "SOMATISCHE ZIEKTE/AANDOENING",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "02",
+        "omschrijving": "PSYCHOGERIATRISCHE ZIEKTE/AANDOENING",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "03",
+        "omschrijving": "PSYCHIATRISCHE AANDOENING, PSYCHISCHE STOORNIS",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "04",
+        "omschrijving": "LICHAMELIJKE HANDICAP (FUNCTIESTOORNIS)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "05",
+        "omschrijving": "VERSTANDELIJKE HANDICAP (FUNCTIESTOORNIS)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "06",
+        "omschrijving": "ZINTUIGLIJKE HANDICAP (FUNCTIESTOORNIS)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "07",
+        "omschrijving": "PSYCHOSOCIALE PROBLEMEN",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

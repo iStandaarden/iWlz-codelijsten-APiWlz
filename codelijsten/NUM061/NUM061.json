@@ -1,0 +1,14 @@
+{
+  "Codelijst": {
+    "codelijstId": "NUM061",
+    "Codelijstnaam": "NUM061: Aanduiding woonadres",
+    "Codelijstomschrijving": "De aanduiding die wordt gebruikt voor adressen die niet zijn voorzien van de gebruikelijke straatnaam en huisnummeraanduidingen.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      { "id": "AB", "omschrijving": "Aan boord", "ingangsdatum": "2015-01-01" },
+      { "id": "BY", "omschrijving": "Bij", "ingangsdatum": "2015-01-01" },
+      { "id": "TO", "omschrijving": "Tegenover", "ingangsdatum": "2015-01-01" },
+      { "id": "WW", "omschrijving": "Woonwagen", "ingangsdatum": "2015-01-01" }
+    ]
+  }
+}

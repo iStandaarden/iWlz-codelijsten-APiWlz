@@ -1,0 +1,20 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD982",
+    "Codelijstnaam": "COD982: Toeslag beademing",
+    "Codelijstomschrijving": "De soort beademing waarop de toeslag van toepassing is.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "1",
+        "omschrijving": "Non-invasieve beademing",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "2",
+        "omschrijving": "Invasieve beademing",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

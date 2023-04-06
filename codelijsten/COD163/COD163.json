@@ -1,0 +1,337 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD163",
+    "Codelijstnaam": "COD163: Zorgzwaartepakket",
+    "Codelijstomschrijving": "Gecodeerde aanduiding van een zorgzwaartepakket.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "190",
+        "omschrijving": "9VV A: Geriatrische revalidatiezorg",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "191",
+        "omschrijving": "9VV B: Herstelgerichte behandeling met verpleging en verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "750",
+        "omschrijving": "1VV: Beschut wonen met enige begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "751",
+        "omschrijving": "2VV: Beschut wonen met begeleiding en verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "752",
+        "omschrijving": "3VV: Beschut wonen met begeleiding en intensieve verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "753",
+        "omschrijving": "4VV: Beschut wonen met intensieve begeleiding en uitgebreide verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "754",
+        "omschrijving": "5VV: Beschermd wonen met intensieve dementiezorg",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "755",
+        "omschrijving": "6VV: Beschermd wonen met intensieve verzorging en verpleging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "756",
+        "omschrijving": "7VV: Beschermd wonen met zeer intensieve zorg, vanwege specifieke aandoeningen, met nadruk op begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "757",
+        "omschrijving": "8VV: Beschermd wonen met zeer intensieve zorg, vanwege specifieke aandoeningen, met de nadruk op verzorging/verpleging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "758",
+        "omschrijving": "9VV: Herstelgerichte behandeling met verpleging en verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "759",
+        "omschrijving": "10VV: Beschermd verblijf met intensieve palliatief-terminale zorg",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "760",
+        "omschrijving": "1GGZ C: Beschermd wonen met begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "762",
+        "omschrijving": "2GGZ C: Gestructureerd beschermd wonen met uitgebreide begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "764",
+        "omschrijving": "3GGZ C: Beschermd wonen met intensieve begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "766",
+        "omschrijving": "4GGZ B: Voortgezet verblijf met intensieve begeleiding en verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "768",
+        "omschrijving": "5GGZ B: Voortgezet verblijf met intensieve begeleiding en gedragsregulering",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "770",
+        "omschrijving": "6GGZ B: Voortgezet verblijf met intensieve begeleiding en intensieve verpleging en verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "772",
+        "omschrijving": "7GGZ B: Beveiligd voortgezet verblijf vanwege extreme gedragsproblematiek met zeer intensieve begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "780",
+        "omschrijving": "1LVG: Wonen met enige behandeling en begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "781",
+        "omschrijving": "2LVG: Wonen met behandeling en begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "782",
+        "omschrijving": "3LVG: Wonen met intensieve behandeling en begeleiding, kleine groep",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "783",
+        "omschrijving": "4LVG: Wonen met zeer intensieve behandeling en begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "784",
+        "omschrijving": "5LVG: Besloten wonen met zeer intensieve behandeling en begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "790",
+        "omschrijving": "1SGLVG: Behandeling in een SGLVG-behandelcentrum",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "800",
+        "omschrijving": "1VG: Wonen met enige begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "802",
+        "omschrijving": "2VG: Wonen met begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "804",
+        "omschrijving": "3VG: Wonen met begeleiding en verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "806",
+        "omschrijving": "4VG: Wonen met begeleiding en intensieve verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "808",
+        "omschrijving": "5VG: Wonen met intensieve begeleiding en intensieve verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "810",
+        "omschrijving": "6VG: Wonen met intensieve begeleiding, verzorging en gedragsregulering",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "812",
+        "omschrijving": "7VG: (Besloten) wonen met zeer intensieve begeleiding, verzorging en gedragsregulering",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "814",
+        "omschrijving": "8VG: Wonen met begeleiding en volledige verzorging en verpleging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "820",
+        "omschrijving": "1LG: Wonen met enige begeleiding en enige verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "822",
+        "omschrijving": "2LG: Wonen met begeleiding en enige verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "824",
+        "omschrijving": "3LG: Wonen met enige begeleiding en verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "826",
+        "omschrijving": "4LG: Wonen met begeleiding en verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "828",
+        "omschrijving": "5LG: Wonen met begeleiding en intensieve verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "830",
+        "omschrijving": "6LG: Wonen met intensieve begeleiding en intensieve verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "832",
+        "omschrijving": "7LG: Wonen met zeer intensieve begeleiding en zeer intensieve verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "840",
+        "omschrijving": "1ZGvis: Wonen met enige begeleiding en enige verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "842",
+        "omschrijving": "2ZGvis: Wonen met begeleiding en enige verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "844",
+        "omschrijving": "3ZGvis: Wonen met intensieve begeleiding en verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "846",
+        "omschrijving": "4ZGvis: Wonen met intensieve begeleiding en intensieve verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "848",
+        "omschrijving": "5ZGvis: Wonen met zeer intensieve begeleiding en zeer intensieve verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "850",
+        "omschrijving": "1ZGaud: Wonen met begeleiding en enige verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "852",
+        "omschrijving": "2ZGaud: Wonen met intensieve begeleiding en verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "854",
+        "omschrijving": "3ZGaud: Wonen met intensieve begeleiding en intensieve verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "856",
+        "omschrijving": "4ZGaud: Wonen met intensieve begeleiding en enige verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "860",
+        "omschrijving": "1GGZ B: Voortgezet verblijf met beleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "862",
+        "omschrijving": "2GGZ B: Voortgezet verblijf met structuur en uitgebreide begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "864",
+        "omschrijving": "3GGZ B: Voortgezet verblijf met intensieve begeleiding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "866",
+        "omschrijving": "4GGZ C: Gestructureerd beschermd wonen met intensieve begeleiding en verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "868",
+        "omschrijving": "5GGZ C: Beschermd wonen met intensieve begeleiding en gedragsregulering",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "870",
+        "omschrijving": "6GGZ C: Beschermd wonen met intensieve begeleiding en intensieve verpleging en verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "880",
+        "omschrijving": "1GGZ W: Wonen met intensieve begeleiding",
+        "ingangsdatum": "2015-01-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "882",
+        "omschrijving": "2GGZ W: Wonen met intensieve begeleiding en verzorging",
+        "ingangsdatum": "2015-01-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "884",
+        "omschrijving": "3GGZ W: Wonen met intensieve begeleiding en gedragsregulering",
+        "ingangsdatum": "2015-01-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "886",
+        "omschrijving": "4GGZ W: Wonen met intensieve begeleiding en intensieve verpleging en verzorging",
+        "ingangsdatum": "2015-01-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "888",
+        "omschrijving": "5GGZ W: Beveiligd Wonen vanwege extreme gedragsproblematiek met zeer intensieve begeleiding",
+        "ingangsdatum": "2015-01-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "996",
+        "omschrijving": "Wlz Indiceerbaar",
+        "ingangsdatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "997",
+        "omschrijving": "PGB: ZZP-code uitsluitend te gebruiken voor start en stop PGB Wlz-indiceerbaren aan CAK",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "998",
+        "omschrijving": "ZZPX: Onbepaald zorgzwaartepakket",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "999",
+        "omschrijving": "ZZP0: Partnerverblijf",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

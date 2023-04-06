@@ -1,0 +1,2023 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD910",
+    "Codelijstnaam": "COD910: Retourcode",
+    "Codelijstomschrijving": "Melding in een retourbericht. Het betreft een code die in een retourbericht het resultaat van de beoordeling van een (deel van een) ontvangen bericht weergeeft.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "0001",
+        "omschrijving": "Bericht is afgekeurd om technische redenen.",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0010",
+        "omschrijving": "BERICHT ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0011",
+        "omschrijving": "VERSIE ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0025",
+        "omschrijving": "DAGTEKENING HEENBERICHT ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0026",
+        "omschrijving": "IDENTIFICATIE AANLEVERING ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0200",
+        "omschrijving": "Geen opmerking over deze berichtklasse.",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0233",
+        "omschrijving": "Berichtklasse is niet beoordeeld.",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0309",
+        "omschrijving": "GEHEIME CLIENT ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0310",
+        "omschrijving": "VOORLETTERS ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0311",
+        "omschrijving": "VOORVOEGSEL (01) ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0312",
+        "omschrijving": "NAAM (01) ontbreekt of is onjuist..",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0328",
+        "omschrijving": "Client is uitgeschreven wegens overlijden.",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0350",
+        "omschrijving": "GEBOORTEDATUM ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0351",
+        "omschrijving": "GESLACHT ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0354",
+        "omschrijving": "BURGERLIJKE STAAT client ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0383",
+        "omschrijving": "INSTELLING ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0387",
+        "omschrijving": "VOORVOEGSEL (02) ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0388",
+        "omschrijving": "NAAM (02) ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0397",
+        "omschrijving": "NAAMCODE (03) ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0398",
+        "omschrijving": "DATUMGEBRUIK ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0399",
+        "omschrijving": "BSN ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0402",
+        "omschrijving": "COMMUNICATIEVORM ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0403",
+        "omschrijving": "COMMUNICATIETAAL ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0404",
+        "omschrijving": "JURIDISCHE STATUS ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0406",
+        "omschrijving": "HUISNUMMER ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0407",
+        "omschrijving": "HUISNUMMERTOEVOEGING ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0409",
+        "omschrijving": "STRAATNAAM ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0410",
+        "omschrijving": "PLAATSNAAM ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0411",
+        "omschrijving": "ORGANISATIE ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0415",
+        "omschrijving": "EMAILADRES ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0426",
+        "omschrijving": "LANDCODE ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0427",
+        "omschrijving": "TELEFOON (01) ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0428",
+        "omschrijving": "LANDNUMMER (01) ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0429",
+        "omschrijving": "TELEFOON (02) ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0430",
+        "omschrijving": "LANDNUMMER (02) ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0431",
+        "omschrijving": "POSTCODE ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0448",
+        "omschrijving": "Client kan niet geidentificeerd worden.",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0451",
+        "omschrijving": "HUISLETTER ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0452",
+        "omschrijving": "AANDUIDING WOONADRES ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0540",
+        "omschrijving": "DIAGNOSECODELIJST ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0546",
+        "omschrijving": "SUBCODE DIAGNOSECODELIJST ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0565",
+        "omschrijving": "HUISARTS ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0659",
+        "omschrijving": "SOORT relatie ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0677",
+        "omschrijving": "RELATIENUMMER ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0682",
+        "omschrijving": "SOORT adres ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0692",
+        "omschrijving": "Startdatum zorg met ZZP-code 880, 882, 884, 886, 888 ligt voor 1 januari 2021.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0693",
+        "omschrijving": "Startdatum zorg met ZZP-code 997 ligt na 31 december 2020.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0694",
+        "omschrijving": "Startdatum zorg met ZZP-code 996 ligt na 31 december 2020.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0695",
+        "omschrijving": "Startdatum zorg met leveringsvorm DTV ligt voor 1 januari 2020.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0696",
+        "omschrijving": "Startdatum zorg veroorzaakt samenloop van 3 leveringsvormen",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0699",
+        "omschrijving": "Startdatum levering is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "0700",
+        "omschrijving": "De startdatum van de te verwijderen MAZ ligt meer dan een jaar in het verleden.",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0701",
+        "omschrijving": "De startdatum van de nieuwe MAZ ligt in een aanwezige MAZ-MUT (melding einde zorg)-periode.",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0702",
+        "omschrijving": "De startdatum van de nieuwe MAZ is al eerder aangeleverd met deels andere sleutelgegevens.",
+        "ingangsdatum": "2020-01-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "0703",
+        "omschrijving": "De startdatum van de nieuwe MAZ is al eerder aangeleverd met een andere Leveringsvorm.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0704",
+        "omschrijving": "De startdatum van de nieuwe MAZ is al eerder aangeleverd met een andere AGB-code.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0705",
+        "omschrijving": "De startdatum van de nieuwe MAZ is al eerder aangeleverd met een andere ZZP-code.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0706",
+        "omschrijving": "De startdatum van de nieuwe MAZ is al eerder aangeleverd met een ander GeleverdeZorgID.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0707",
+        "omschrijving": "De startdatum van de nieuwe MAZ is al eerder aangeleverd met leveringsvorm DTV met een ander aantal Etmalen.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0800",
+        "omschrijving": "GeleverdeZorgID is al eerder aangeleverd met dezelfde gegevens.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0801",
+        "omschrijving": "GeleverdeZorgID is al eerder aangeleverd met een andere Leveringsvorm.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0802",
+        "omschrijving": "GeleverdeZorgID is al eerder aangeleverd met een andere AGB-code.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0803",
+        "omschrijving": "GeleverdeZorgID is al eerder aangeleverd met een andere ZZP-code.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0804",
+        "omschrijving": "GeleverdeZorgID is al eerder aangeleverd met leveringsvorm DTV met een ander aantal Etmalen.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "0806",
+        "omschrijving": "STATUS AANLEVERING RECORD ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1000",
+        "omschrijving": "INDICATIEORGAAN ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1002",
+        "omschrijving": "ZORGKANTOOR ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1040",
+        "omschrijving": "SOORT aanvraag  ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1054",
+        "omschrijving": "LEEFEENHEID ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1060",
+        "omschrijving": "CLIENTNUMMER ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1061",
+        "omschrijving": "AANVRAAGNUMMER ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1062",
+        "omschrijving": "BESLUITNUMMER ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1064",
+        "omschrijving": "BEGINDATUM adres ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1065",
+        "omschrijving": "EINDDATUM adres ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1074",
+        "omschrijving": "GRONDSLAG ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1075",
+        "omschrijving": "ZIEKTEBEELD/STOORNIS ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1076",
+        "omschrijving": "PROGNOSE ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1079",
+        "omschrijving": "BEPERKING ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1081",
+        "omschrijving": "DUUR ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1089",
+        "omschrijving": "ZORGKANTOOR (02) ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1092",
+        "omschrijving": "VOLGORDE ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1113",
+        "omschrijving": "FUNCTIECODE of ZZPCODE ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1114",
+        "omschrijving": "KLASSE ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1115",
+        "omschrijving": "GRONDSLAG (01) ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1116",
+        "omschrijving": "LEVERINGSVOORWAARDE ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1117",
+        "omschrijving": "VERVOER ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1119",
+        "omschrijving": "INGANGSDATUM geindiceerde zorgeenheid ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1120",
+        "omschrijving": "EINDDATUM geindiceerde zorgeenheid ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1123",
+        "omschrijving": "LEVERINGSVORM ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1124",
+        "omschrijving": "INSTELLING VOORKEUR ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1143",
+        "omschrijving": "GRONDSLAG (02) ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1145",
+        "omschrijving": "OPSLAG ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1154",
+        "omschrijving": "MUTATIECODE ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1156",
+        "omschrijving": "Mutatiedatum levering is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "1157",
+        "omschrijving": "Zorgregel is al afgesloten door een eerder ontvangen MUT (melding einde zorg).",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "1158",
+        "omschrijving": "INSTELLING BESTEMMING ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1160",
+        "omschrijving": "De mutatiedatum van de te verwijderen MUT (melding einde zorg) ligt meer dan een jaar in het verleden.",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "1161",
+        "omschrijving": "De mutatiedatum van de nieuwe MUT (melding einde zorg) valt na de startdatum van de tweede MAZ in een MAZ op MAZ situatie. De MUT hoort bij de eerste MAZ-periode die al is afgesloten door de MAZ op MAZ-situatie.",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "1162",
+        "omschrijving": "Verwijderen van de MUT (melding einde zorg) veroorzaakt samenloop van 3 leveringsvormen.",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "1173",
+        "omschrijving": "TOEWIJZINGSDATUM ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1174",
+        "omschrijving": "INGANGSDATUM zorgtoewijzing ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1175",
+        "omschrijving": "EINDDATUM zorgtoewijzing ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1187",
+        "omschrijving": "BOPZ ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1188",
+        "omschrijving": "DATUM BOPZ ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1190",
+        "omschrijving": "VRAAG STOORNIS ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1191",
+        "omschrijving": "SCORE STOORNIS ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1192",
+        "omschrijving": "VRAAG BEPERKING ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1193",
+        "omschrijving": "SCORE BEPERKING ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1201",
+        "omschrijving": "TOEWIJZINGSTIJD ontbreekt of onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1206",
+        "omschrijving": "SOORT indicatie ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1207",
+        "omschrijving": "SOORT toewijzing ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1208",
+        "omschrijving": "REDEN INTREKKING ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1210",
+        "omschrijving": "LEVERINGSSTATUS ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1211",
+        "omschrijving": "SLEUTELDATUM ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1213",
+        "omschrijving": "GEBOORTEJAAR ontbreekt of is onjuist",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1214",
+        "omschrijving": "VOLGNUMMER CLIENT ontbreekt of is onjuist",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1215",
+        "omschrijving": "VOLGNUMMER INDICATIE ontbreekt of is onjuist",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1216",
+        "omschrijving": "INGANGSDATUM STATUS ontbreekt of is onjuist",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "1300",
+        "omschrijving": "ZORGKANTOOR (01) ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "4702",
+        "omschrijving": "INGANGSDATUM indicatiebesluit ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "4703",
+        "omschrijving": "EINDDATUM indicatiebesluit ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "4761",
+        "omschrijving": "AFGIFTEDATUM ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "8027",
+        "omschrijving": "SUBVERSIE ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "8901",
+        "omschrijving": "BEGINDATUM PERIODE ontbreekt of is onjuist",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "8902",
+        "omschrijving": "EINDDATUM PERIODE ontbreekt of is onjuist",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "8904",
+        "omschrijving": "Voorkeur client ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "8905",
+        "omschrijving": "Financiering ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "8906",
+        "omschrijving": "Meerzorg ontbreekt of is onjuist.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9002",
+        "omschrijving": "Bericht voldoet niet aan technische regel 2",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9004",
+        "omschrijving": "Bericht voldoet niet aan technische regel 4",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9005",
+        "omschrijving": "Bericht voldoet niet aan technische regel 5",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9006",
+        "omschrijving": "Bericht voldoet niet aan technische regel 6",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9008",
+        "omschrijving": "Bericht voldoet niet aan constraint CS135.",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "9010",
+        "omschrijving": "Bericht voldoet niet aan conditie CD092.",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "9011",
+        "omschrijving": "Bericht voldoet niet aan technische regel 11",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9014",
+        "omschrijving": "Bericht voldoet niet aan technische regel 14",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9015",
+        "omschrijving": "Bericht voldoet niet aan technische regel 15",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9016",
+        "omschrijving": "Bericht voldoet niet aan technische regel 16",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9017",
+        "omschrijving": "Bericht voldoet niet aan technische regel 17",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9018",
+        "omschrijving": "Bericht voldoet niet aan constraint CS136.",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "9019",
+        "omschrijving": "Bericht voldoet niet aan technische regel 19",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9020",
+        "omschrijving": "Bericht voldoet niet aan technische regel 20",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9021",
+        "omschrijving": "Bericht voldoet niet aan technische regel 21",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9034",
+        "omschrijving": "Bericht voldoet niet aan conditie CD093.",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "9035",
+        "omschrijving": "Bericht voldoet niet aan technische regel 35",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9037",
+        "omschrijving": "Bericht voldoet niet aan technische regel 37",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9039",
+        "omschrijving": "Bericht voldoet niet aan technische regel 39",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9040",
+        "omschrijving": "Bericht voldoet niet aan technische regel 40",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9041",
+        "omschrijving": "Bericht voldoet niet aan technische regel 41",
+        "ingangsdatum": "2019-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9042",
+        "omschrijving": "Bericht voldoet niet aan technische regel 42",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9046",
+        "omschrijving": "Bericht voldoet niet aan constraint CS137.",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "9052",
+        "omschrijving": "Bericht voldoet niet aan technische regel 52",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9056",
+        "omschrijving": "Bericht voldoet niet aan technische regel 56",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9057",
+        "omschrijving": "Bericht voldoet niet aan technische regel 57",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9058",
+        "omschrijving": "Bericht voldoet niet aan technische regel 58",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9061",
+        "omschrijving": "Bericht voldoet niet aan technische regel 61",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9063",
+        "omschrijving": "Bericht voldoet niet aan technische regel 63",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9064",
+        "omschrijving": "Bericht voldoet niet aan technische regel 64",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9065",
+        "omschrijving": "Bericht voldoet niet aan technische regel 65",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9066",
+        "omschrijving": "Bericht voldoet niet aan conditie CD094.",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "9067",
+        "omschrijving": "Bericht voldoet niet aan technische regel 67",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9069",
+        "omschrijving": "Bericht voldoet niet aan technische regel 69",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9070",
+        "omschrijving": "Bericht voldoet niet aan technische regel 70",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9071",
+        "omschrijving": "Bericht voldoet niet aan technische regel 71",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9073",
+        "omschrijving": "Bericht voldoet niet aan technische regel 73",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9074",
+        "omschrijving": "Bericht voldoet niet aan technische regel 74",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9076",
+        "omschrijving": "Bericht voldoet niet aan technische regel 76",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9077",
+        "omschrijving": "Bericht voldoet niet aan technische regel 77.",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9078",
+        "omschrijving": "Bericht voldoet niet aan technische regel 78",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9079",
+        "omschrijving": "Bericht voldoet niet aan technische regel 79",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9080",
+        "omschrijving": "Bericht voldoet niet aan technische regel 80",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9082",
+        "omschrijving": "Bericht voldoet niet aan technische regel 82",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9084",
+        "omschrijving": "Bericht voldoet niet aan technische regel 84",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9085",
+        "omschrijving": "Bericht voldoet niet aan technische regel 85",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9086",
+        "omschrijving": "Bericht voldoet niet aan technische regel 86",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9091",
+        "omschrijving": "Bericht voldoet niet aan constraint CS138.",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "9092",
+        "omschrijving": "Bericht voldoet niet aan technische regel 92",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9097",
+        "omschrijving": "Bericht voldoet niet aan constraint CS139.",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "9100",
+        "omschrijving": "Bericht voldoet niet aan technische regel 100",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9101",
+        "omschrijving": "Bericht voldoet niet aan technische regel 101.",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "9102",
+        "omschrijving": "Bericht voldoet niet aan technische regel 102",
+        "ingangsdatum": "2018-04-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9103",
+        "omschrijving": "Bericht voldoet niet aan technische regel 103",
+        "ingangsdatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9104",
+        "omschrijving": "Bericht voldoet niet aan technische regel 104",
+        "ingangsdatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9106",
+        "omschrijving": "Bericht voldoet niet aan technische regel 106",
+        "ingangsdatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9107",
+        "omschrijving": "Bericht voldoet niet aan technische regel 107",
+        "ingangsdatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9108",
+        "omschrijving": "Bericht voldoet niet aan technische regel 108",
+        "ingangsdatum": "2019-07-01"
+      },
+      {
+        "id": "9109",
+        "omschrijving": "Bericht voldoet niet aan technische regel 109",
+        "ingangsdatum": "2019-07-01"
+      },
+      {
+        "id": "9110",
+        "omschrijving": "Bericht voldoet niet aan technische regel 110",
+        "ingangsdatum": "2019-07-01"
+      },
+      {
+        "id": "9111",
+        "omschrijving": "Bericht voldoet niet aan technische regel 111",
+        "ingangsdatum": "2019-07-01"
+      },
+      {
+        "id": "9118",
+        "omschrijving": "Bericht voldoet niet aan technische regel 118",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9119",
+        "omschrijving": "Bericht voldoet niet aan constraint CS140.",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "9120",
+        "omschrijving": "Bericht voldoet niet aan technische regel 120",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9121",
+        "omschrijving": "Bericht voldoet niet aan technische regel 121",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9122",
+        "omschrijving": "Bericht voldoet niet aan technische regel 122",
+        "ingangsdatum": "2020-01-01",
+        "experiratiedatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9123",
+        "omschrijving": "Bericht voldoet niet aan technische regel 123",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2020-04-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9124",
+        "omschrijving": "Bericht voldoet niet aan technische regel 124",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-27",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9125",
+        "omschrijving": "Bericht voldoet niet aan technische regel 125",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-07-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9126",
+        "omschrijving": "Bericht voldoet niet aan technische regel 126",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2020-04-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9127",
+        "omschrijving": "Bericht voldoet niet aan technische regel 127",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-10-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9128",
+        "omschrijving": "Bericht voldoet niet aan technische regel 128",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-10-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9129",
+        "omschrijving": "Bericht voldoet niet aan technische regel 129",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "9130",
+        "omschrijving": "Bericht voldoet niet aan constraint CS141.",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "9131",
+        "omschrijving": "Bericht voldoet niet aan technische regel 131",
+        "ingangsdatum": "2022-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "D004",
+        "omschrijving": "Bericht voldoet niet aan conditie CD004.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-29",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "D005",
+        "omschrijving": "Bericht voldoet niet aan conditie CD005.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-29",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "D007",
+        "omschrijving": "Bericht voldoet niet aan conditie CD007.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-29",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "D009",
+        "omschrijving": "Bericht voldoet niet aan conditie CD009.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-29",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "D016",
+        "omschrijving": "Bericht voldoet niet aan conditie CD016.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-29",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "D017",
+        "omschrijving": "Bericht voldoet niet aan conditie CD017.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-29",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "D018",
+        "omschrijving": "Bericht voldoet niet aan conditie CD018.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "D020",
+        "omschrijving": "Bericht voldoet niet aan conditie CD020.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-29",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "D022",
+        "omschrijving": "Bericht voldoet niet aan conditie CD022.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-29",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "D023",
+        "omschrijving": "Bericht voldoet niet aan conditie CD023",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "D025",
+        "omschrijving": "Bericht voldoet niet aan conditie CD025.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-29",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "D029",
+        "omschrijving": "Bericht voldoet niet aan technische regel 132.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "D034",
+        "omschrijving": "Bericht voldoet niet aan conditie CD034.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "D036",
+        "omschrijving": "Bericht voldoet niet aan conditie CD036.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "D040",
+        "omschrijving": "Bericht voldoet niet aan conditie CD040.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "D041",
+        "omschrijving": "Bericht voldoet niet aan conditie CD041.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "D042",
+        "omschrijving": "Bericht voldoet niet aan conditie CD042.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "D043",
+        "omschrijving": "Bericht voldoet niet aan conditie CD043.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "D044",
+        "omschrijving": "Bericht voldoet niet aan conditie CD044.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "D045",
+        "omschrijving": "Bericht voldoet niet aan conditie CD045.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "D046",
+        "omschrijving": "Bericht voldoet niet aan conditie CD046.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "D047",
+        "omschrijving": "Bericht voldoet niet aan conditie CD047.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "D048",
+        "omschrijving": "Bericht voldoet niet aan conditie CD048.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "D049",
+        "omschrijving": "Bericht voldoet niet aan conditie CD049",
+        "ingangsdatum": "2018-04-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "D050",
+        "omschrijving": "Bericht voldoet niet aan conditie CD050",
+        "ingangsdatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "D051",
+        "omschrijving": "Bericht voldoet niet aan conditie CD051",
+        "ingangsdatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "D052",
+        "omschrijving": "Bericht voldoet niet aan conditie CD052",
+        "ingangsdatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "D053",
+        "omschrijving": "Bericht voldoet niet aan conditie CD053",
+        "ingangsdatum": "2018-04-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "D054",
+        "omschrijving": "Bericht voldoet niet aan conditie CD054",
+        "ingangsdatum": "2018-04-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "D070",
+        "omschrijving": "Bericht voldoet niet aan conditie CD070",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "D071",
+        "omschrijving": "Bericht voldoet niet aan conditie CD071",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "D072",
+        "omschrijving": "Bericht voldoet niet aan conditie CD072",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "D073",
+        "omschrijving": "Bericht voldoet niet aan conditie CD073",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-10-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "D074",
+        "omschrijving": "Bericht voldoet niet aan conditie CD074",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-10-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "D090",
+        "omschrijving": "Bericht voldoet niet aan conditie CD090",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "D091",
+        "omschrijving": "Bericht voldoet niet aan conditie CD091",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "S002",
+        "omschrijving": "Bericht voldoet niet aan constraint CS002.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S003",
+        "omschrijving": "Bericht voldoet niet aan constraint CS003.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S012",
+        "omschrijving": "Bericht voldoet niet aan constraint CS012.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S014",
+        "omschrijving": "Bericht voldoet niet aan constraint CS014.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S023",
+        "omschrijving": "Bericht voldoet niet aan technische regel 134.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "S035",
+        "omschrijving": "Bericht voldoet niet aan constraint CS035.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S049",
+        "omschrijving": "Bericht voldoet niet aan constraint CS049.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S050",
+        "omschrijving": "Bericht voldoet niet aan constraint CS050.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S057",
+        "omschrijving": "Bericht voldoet niet aan constraint CS057.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S058",
+        "omschrijving": "Bericht voldoet niet aan constraint CS058.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S062",
+        "omschrijving": "Bericht voldoet niet aan constraint CS062.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "S064",
+        "omschrijving": "Bericht voldoet niet aan technische regel 135.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "S065",
+        "omschrijving": "Bericht voldoet niet aan constraint CS065.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S067",
+        "omschrijving": "Bericht voldoet niet aan constraint CS067.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S069",
+        "omschrijving": "Bericht voldoet niet aan constraint CS069.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S071",
+        "omschrijving": "Bericht voldoet niet aan constraint CS071.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S072",
+        "omschrijving": "Bericht voldoet niet aan constraint CS072.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S073",
+        "omschrijving": "Bericht voldoet niet aan constraint CS073.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S074",
+        "omschrijving": "Bericht voldoet niet aan constraint CS074.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S086",
+        "omschrijving": "Bericht voldoet niet aan constraint CS086.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S088",
+        "omschrijving": "Bericht voldoet niet aan constraint CS088.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S089",
+        "omschrijving": "Bericht voldoet niet aan constraint CS089.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S092",
+        "omschrijving": "Bericht voldoet niet aan constraint CS092.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S093",
+        "omschrijving": "Bericht voldoet niet aan constraint CS093.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S107",
+        "omschrijving": "Bericht voldoet niet aan constraint CS107.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S108",
+        "omschrijving": "Bericht voldoet niet aan technische regel 137.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "S113",
+        "omschrijving": "Bericht voldoet niet aan constraint CS113.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S114",
+        "omschrijving": "Bericht voldoet niet aan constraint CS114.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S115",
+        "omschrijving": "Bericht voldoet niet aan constraint CS115.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S118",
+        "omschrijving": "Bericht voldoet niet aan constraint CS118.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-01"
+      },
+      {
+        "id": "S119",
+        "omschrijving": "Bericht voldoet niet aan constraint CS119.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S120",
+        "omschrijving": "Bericht voldoet niet aan constraint CS120.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S121",
+        "omschrijving": "Bericht voldoet niet aan constraint CS121.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S122",
+        "omschrijving": "Bericht voldoet niet aan constraint CS122.",
+        "ingangsdatum": "2017-01-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S123",
+        "omschrijving": "Bericht voldoet niet aan constraint CS123.",
+        "ingangsdatum": "2017-01-01",
+        "mutatiedatum": "2016-06-29",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "S124",
+        "omschrijving": "Bericht voldoet niet aan constraint CS124.",
+        "ingangsdatum": "2018-04-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-10-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S125",
+        "omschrijving": "Bericht voldoet niet aan constraint CS125",
+        "ingangsdatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "S127",
+        "omschrijving": "Bericht voldoet niet aan constraint CS127",
+        "ingangsdatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "S130",
+        "omschrijving": "Bericht voldoet niet aan constraint CS130",
+        "ingangsdatum": "2018-04-01",
+        "mutatiedatum": "2017-12-19",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "S131",
+        "omschrijving": "Bericht voldoet niet aan constraint CS131",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "S132",
+        "omschrijving": "Bericht voldoet niet aan constraint CS132",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "S133",
+        "omschrijving": "Bericht voldoet niet aan constraint CS133",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "S300",
+        "omschrijving": "Bericht voldoet niet aan constraint CS300.",
+        "ingangsdatum": "2017-07-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S317",
+        "omschrijving": "Bericht voldoet niet aan constraint CS317.",
+        "ingangsdatum": "2017-07-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "S318",
+        "omschrijving": "Bericht voldoet niet aan constraint CS318.",
+        "ingangsdatum": "2017-07-01",
+        "experiratiedatum": "2018-04-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "vervallen"
+      }
+    ]
+  }
+}

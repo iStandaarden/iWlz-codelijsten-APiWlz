@@ -1,0 +1,335 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD825",
+    "Codelijstnaam": "COD825: Vraag beperking",
+    "Codelijstomschrijving": "Gecodeerde aanduiding van de vraag over beperking.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "0101",
+        "omschrijving": "Sociale redzaamheid - Problemen oplossen, besluiten nemen en gevolgen inschatten",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0102",
+        "omschrijving": "Sociale redzaamheid - Initieren + uitvoeren van eenvoudige taken (bv. eten maken, de was doen)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0103",
+        "omschrijving": "Sociale redzaamheid - Initieren + uitvoeren van complexere taken (bv. werkritme)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0104",
+        "omschrijving": "Sociale redzaamheid - Dagelijkse routine regelen: structuur in dagindeling",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0105",
+        "omschrijving": "Sociale redzaamheid - Dagelijkse bezigheden: activiteiten plannen/uitvoeren",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0106",
+        "omschrijving": "Sociale redzaamheid - Kunnen lezen, schrijven en rekenen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0107",
+        "omschrijving": "Sociale redzaamheid - Zelf geld beheren, weten hoe je iets koopt en betaalt",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0108",
+        "omschrijving": "Sociale redzaamheid - Zelf allerlei administratieve zaken afhandelen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0109",
+        "omschrijving": "Sociale redzaamheid - Zich redden bij het gebruik van openbaar vervoer",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0110",
+        "omschrijving": "Sociale redzaamheid - Zich redden in winkels, postkantoor, bank, etc.",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0111",
+        "omschrijving": "Sociale redzaamheid - Communicatie: begrijpen wat anderen zeggen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0112",
+        "omschrijving": "Sociale redzaamheid - Communicatie: zich begrijpelijk maken naar anderen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0113",
+        "omschrijving": "Sociale redzaamheid - Communicatie: een gesprek voeren",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0114",
+        "omschrijving": "Sociale redzaamheid - Hulpmiddelen voor communicatie gebruiken (telefoon, computer, etc.)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0201",
+        "omschrijving": "Mobiliteit - Lichaamspositie veranderen (opstaan uit stoel, knielen en opstaan)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0202",
+        "omschrijving": "Mobiliteit - Lichaamspositie handhaven (rechtop staan; in stoel zitten)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0203",
+        "omschrijving": "Mobiliteit - Lichtere voorwerpen tillen en dragen (bijv. kopje oppakken)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0204",
+        "omschrijving": "Mobiliteit - Zwaardere voorwerpen tillen en dragen (bijv. kind in bed leggen)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0205",
+        "omschrijving": "Mobiliteit - Gecoordinerede bewegingen met benen/voeten maken (bijv. fietsen)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0206",
+        "omschrijving": "Mobiliteit - Fijne handbewegingen maken (bijv. geld tellen, toetsen indrukken)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0207",
+        "omschrijving": "Mobiliteit - Grove hand- en armbewegingen maken (duwen, trekken, vangen)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0208",
+        "omschrijving": "Mobiliteit - Zich voortbewegen binnenshuis, zonder hulp of hulpmiddelen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0209",
+        "omschrijving": "Mobiliteit - Trap op en af gaan, zonder hulp of hulpmiddelen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0210",
+        "omschrijving": "Mobiliteit - Korte afstanden lopen: ten hoogste kilometer",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0211",
+        "omschrijving": "Mobiliteit - Zich verplaatsen buitenshuis (> kilometer) zonder hulp/hulpmiddelen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0212",
+        "omschrijving": "Mobiliteit - Zich verplaatsen met gebruik van hulpmiddelen (rollator, rolstoel, etc.)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0213",
+        "omschrijving": "Mobiliteit - Een eigen vervoermiddel gebruiken (fiets, auto)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0214",
+        "omschrijving": "Mobiliteit - Gebruik maken van openbaar vervoer (trein, bus)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0301",
+        "omschrijving": "Persoonlijke zorg - Zich wassen: delen van lichaam of gehele lichaam",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0302",
+        "omschrijving": "Persoonlijke zorg - Zich kleden: aankleden en uitkelden",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0303",
+        "omschrijving": "Persoonlijke zorg - In en uit bed gaan",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0304",
+        "omschrijving": "Persoonlijke zorg - Zich verplaatsen in zit- of lighouding",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0305",
+        "omschrijving": "Persoonlijke zorg - Naar toilet gaan en zich reinigen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0306",
+        "omschrijving": "Persoonlijke zorg - Eten en drinken",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0307",
+        "omschrijving": "Persoonlijke zorg - Persoonlijke zorg voor tanden, haren, nagels, huid",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0308",
+        "omschrijving": "Persoonlijke zorg - Zelf aanbrengen van een prothese",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0309",
+        "omschrijving": "Persoonlijke zorg - Voor eigen gezondheid zorgen (gezonde voeding etc.)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0401",
+        "omschrijving": "Huishoudelijk leven - Boodschappen voor het dagelijks leven doen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0402",
+        "omschrijving": "Huishoudelijk leven - Maaltijden bereiden: broodmaaltijd",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0403",
+        "omschrijving": "Huishoudelijk leven - Maaltijden bereiden: warme maaltijd",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0404",
+        "omschrijving": "Huishoudelijk leven - Licht poetswerk in huis; kamers opruimen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0405",
+        "omschrijving": "Huishoudelijk leven - Huis schoonmaken, stofzuigen, wc/badkamer reinigen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0406",
+        "omschrijving": "Huishoudelijk leven - Kleding/linnengoed wassen (\"de was doen\")",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0407",
+        "omschrijving": "Huishoudelijk leven - Huishoudelijke apparaten gebruiken (wasmachine, stofzuiger, strijkijzer)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0408",
+        "omschrijving": "Huishoudelijk leven - Huishoudelijke spullen in orde houden (kleding, planten, apparaten)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0409",
+        "omschrijving": "Huishoudelijk leven - Anderen in huishouden helpen met zelfverzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0410",
+        "omschrijving": "Huishoudelijk leven - Anderen helpen bij bereiden maaltijden, eten, etc.",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0411",
+        "omschrijving": "Huishoudelijk leven - Dagelijkse organisatie van het huishouden",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0501",
+        "omschrijving": "Sociale relaties en maatschappelijk leven - Relaties met familie onderhouden",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0502",
+        "omschrijving": "Sociale relaties en maatschappelijk leven - Zelfstandig met anderen contacten opbouwen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0503",
+        "omschrijving": "Sociale relaties en maatschappelijk leven - Zelfstandig met anderen (vrienden) contacten onderhouden",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0504",
+        "omschrijving": "Sociale relaties en maatschappelijk leven - Zelfstandig aan clubs en verenigingen deelnemen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0505",
+        "omschrijving": "Sociale relaties en maatschappelijk leven - Vrijetijdsbesteding buitenshuis: naar sport, theater, café, etc.",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0506",
+        "omschrijving": "Sociale relaties en maatschappelijk leven - Zelfstandig naar algemene voorzieningen gaan (zoals winkels, bibliotheek)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0601",
+        "omschrijving": "Deelname onderwijs, werk - Deelname aan gewone kinderopvang",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0602",
+        "omschrijving": "Deelname onderwijs, werk - School volgen binnen het gewoon onderwijs",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0603",
+        "omschrijving": "Deelname onderwijs, werk - School volgen binnen het speciaal onderwijs",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0604",
+        "omschrijving": "Deelname onderwijs, werk - Meedoen aan naschoolse of buitenschoolse opvang",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0605",
+        "omschrijving": "Deelname onderwijs, werk - OUDERS van vrager: opvoeden van kind (ontwikkelen van vaardigheden)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0606",
+        "omschrijving": "Deelname onderwijs, werk - OUDERS van vrager: dagelijkse structuur bieden aan het opgroeiende kind",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0607",
+        "omschrijving": "Deelname onderwijs, werk - Een betaalde baan zoeken en krijgen",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0608",
+        "omschrijving": "Deelname onderwijs, werk - Een dagtaak uitvoeren, een vast werkritme aanhouden",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0609",
+        "omschrijving": "Deelname onderwijs, werk - Betaald werk doen: voltijds",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0610",
+        "omschrijving": "Deelname onderwijs, werk - Betaald werk doen: deeltijd",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "0611",
+        "omschrijving": "Deelname onderwijs, werk - Niet-betaald werk doen in vrijwillige verbanden",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

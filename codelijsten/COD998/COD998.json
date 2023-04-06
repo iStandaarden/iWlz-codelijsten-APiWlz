@@ -1,0 +1,30 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD998",
+        "Codelijstnaam": "COD998: Financiering",
+        "Codelijstomschrijving": "Codering die aangeeft op basis van welke regeling de zorg gefinancierd wordt.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "1",
+                "omschrijving": "Wlz",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "2",
+                "omschrijving": "Wlz, voorheen Wlz-indiceerbaar",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "3",
+                "omschrijving": "Subsidieregeling",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "4",
+                "omschrijving": "Anders",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

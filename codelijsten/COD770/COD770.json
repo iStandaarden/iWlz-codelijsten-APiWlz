@@ -1,0 +1,75 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD770",
+        "Codelijstnaam": "COD770: Subcode diagnosecodelijst",
+        "Codelijstomschrijving": "Code die aangeeft welke subcode van een diagnosecodelijst gebruikt is.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "01",
+                "omschrijving": "Mentaal",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "02",
+                "omschrijving": "Zintuiglijk",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "03",
+                "omschrijving": "Fysiek",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "04",
+                "omschrijving": "1e aandoening",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "05",
+                "omschrijving": "2e aandoening",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "06",
+                "omschrijving": "3e aandoening",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "07",
+                "omschrijving": "As I",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "08",
+                "omschrijving": "As II",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "09",
+                "omschrijving": "As III",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "10",
+                "omschrijving": "As IV",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "11",
+                "omschrijving": "As V",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "12",
+                "omschrijving": "Visueel",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "13",
+                "omschrijving": "Auditief",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

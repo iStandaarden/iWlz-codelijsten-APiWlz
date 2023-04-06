@@ -1,0 +1,49 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD981",
+    "Codelijstnaam": "COD981: Extra kosten thuis",
+    "Codelijstomschrijving": "Code die aangeeft waarom er sprake is van extra kosten thuis.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "1",
+        "omschrijving": "Opgroeiend, thuiswonend kind < 23 jaar",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-12-31",
+        "mutatiedatum": "2018-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "2",
+        "omschrijving": "Ouder met thuiswonend kind < 18 jaar",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-12-31",
+        "mutatiedatum": "2018-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "3",
+        "omschrijving": "Persoon met SOM, LG en/of ZG beperking met betaalde arbeid of die opleiding/studie volgt",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-12-31",
+        "mutatiedatum": "2018-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "4",
+        "omschrijving": "4 Etmalen",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2018-12-31",
+        "mutatiedatum": "2018-07-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "5",
+        "omschrijving": "Extra kosten thuis",
+        "ingangsdatum": "2019-01-01",
+        "mutatiedatum": "2018-07-01",
+        "mutatie": "toegevoegd"
+      }
+    ]
+  }
+}

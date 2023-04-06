@@ -1,0 +1,143 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD168",
+    "Codelijstnaam": "COD168: Leveringsstatus Classificatie",
+    "Codelijstomschrijving": "Gecodeerde aanduiding van een nadere classificatie van een leveringsstatus",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "01",
+        "omschrijving": "Geen passend crisisbed beschikbaar",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "02",
+        "omschrijving": "Doorstroom crisisbed",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "03",
+        "omschrijving": "Doorstroom ziekenhuis (ZH)",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "04",
+        "omschrijving": "Doorstroom eerstelijnsverblijf (ELV)",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "05",
+        "omschrijving": "Doorstroom geriatrische revalidatiezorg (GRZ)",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "06",
+        "omschrijving": "Palliatief terminale zorg (PTZ)",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "07",
+        "omschrijving": "Art. 28a (WZD)",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "08",
+        "omschrijving": "Rechterlijke machtiging of Zorgmachtiging (RM/ZM)",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2021-06-03",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "09",
+        "omschrijving": "Dreigende crisis (thuis)",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "10",
+        "omschrijving": "Niet passende zorg",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "11",
+        "omschrijving": "(Tijdelijk) andere aanbieder bespreekbaar",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "12",
+        "omschrijving": "Voorkeuraanbieder leidend",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "13",
+        "omschrijving": "Specifieke locatie/woonwens",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "14",
+        "omschrijving": "Specifieke locatie/gespecialiseerde zorg",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "15",
+        "omschrijving": "Partneropname",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "16",
+        "omschrijving": "Logeren",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "17",
+        "omschrijving": "Specifieke geografische redenen",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "18",
+        "omschrijving": "Doorstroom naar geclusterd wonen VPT",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "19",
+        "omschrijving": "Geen aanvullende wens(en)",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      }
+    ]
+  }
+}

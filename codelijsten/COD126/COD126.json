@@ -1,0 +1,50 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD126",
+    "Codelijstnaam": "COD126: BOPZ",
+    "Codelijstomschrijving": "Een artikel 60-verklaring geeft aan of de gevraagde opneming noodzakelijk is.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "1",
+        "omschrijving": "Opname op basis van artikel 60 is aan de orde.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "2",
+        "omschrijving": "Opname op basis van artikel 60 is niet aan de orde.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "3",
+        "omschrijving": "Opname op basis van artikel 60 is niet aan de orde. Er is bereidheid.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "4",
+        "omschrijving": "Opname op basis van artikel 60 is niet aan de orde. Er is verzet.",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      },
+      {
+        "id": "9",
+        "omschrijving": "Onbekend",
+        "ingangsdatum": "2015-01-01",
+        "experiratiedatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "vervallen"
+      }
+    ]
+  }
+}

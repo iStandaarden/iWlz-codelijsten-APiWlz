@@ -1,0 +1,25 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD747",
+        "Codelijstnaam": "COD747: Communicatievorm",
+        "Codelijstomschrijving": "Gecodeerde aanduiding van de bijzondere vorm van communicatie die gebruikt dient te worden.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "1",
+                "omschrijving": "Tolk taal",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "2",
+                "omschrijving": "Doventolk",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "3",
+                "omschrijving": "Doofblindentolk",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD757",
+    "Codelijstnaam": "COD757: Soort adres",
+    "Codelijstomschrijving": "Nadere typering van het adres.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "01",
+        "omschrijving": "BRP-adres",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "02",
+        "omschrijving": "Correspondentie-adres",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "03",
+        "omschrijving": "Verblijfadres",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "04",
+        "omschrijving": "Tijdelijk verblijfadres",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

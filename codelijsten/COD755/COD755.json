@@ -1,0 +1,31 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD755",
+    "Codelijstnaam": "COD755: Etmalen",
+    "Codelijstomschrijving": "Gecodeerde aanduiding van het aantal etmalen verblijf per week.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "3,5",
+        "omschrijving": "3,5 Etmalen",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "4,0",
+        "omschrijving": "4 Etmalen",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "4,5",
+        "omschrijving": "4,5 Etmalen",
+        "ingangsdatum": "2020-01-01",
+        "mutatiedatum": "2019-06-01",
+        "mutatie": "toegevoegd"
+      }
+    ]
+  }
+}

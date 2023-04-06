@@ -1,0 +1,49 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD167",
+    "Codelijstnaam": "COD167: Leveringsstatus",
+    "Codelijstomschrijving": "De leveringsstatus waarmee wordt aangegeven wat de status van de geleverde zorg is.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "1",
+        "omschrijving": "Actief wachtend",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "2",
+        "omschrijving": "Wacht op voorkeur",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "3",
+        "omschrijving": "Wacht uit voorzorg",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "gewijzigd"
+      },
+      { "id": "4", "omschrijving": "In zorg", "ingangsdatum": "2015-01-01" },
+      {
+        "id": "5",
+        "omschrijving": "Einde zorgvraag",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "6",
+        "omschrijving": "Urgent plaatsen",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      },
+      {
+        "id": "7",
+        "omschrijving": "Actief plaatsen",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
+      }
+    ]
+  }
+}

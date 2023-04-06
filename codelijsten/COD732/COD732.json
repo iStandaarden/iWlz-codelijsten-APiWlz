@@ -1,0 +1,67 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD732",
+    "Codelijstnaam": "COD732: Functie",
+    "Codelijstomschrijving": "Gecodeerde aanduiding van een (reeks van) activiteit(en) in functionele termen die losgekoppeld is van een bepaalde leverancier, waarbij wordt beschreven wat de inhoud en aard van die activiteit is in termen van hulpverlening (wonen, zorg en welzijn).",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "21",
+        "omschrijving": "HV: Huishoudelijke Hulp",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2017-07-01",
+        "mutatie": "gewijzigd"
+      },
+      {
+        "id": "31",
+        "omschrijving": "PV: Persoonlijke verzorging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "41",
+        "omschrijving": "VP: Verpleging",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "61",
+        "omschrijving": "BHALG: Behandeling algemeen (buiten verblijf in Wlz-instelling)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "62",
+        "omschrijving": "BHVBF: Behandeling met verblijf",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "63",
+        "omschrijving": "BH-IND: Behandeling individueel",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "64",
+        "omschrijving": "BH-GRP: Behandeling in groepsverband",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "71",
+        "omschrijving": "VBTYD: Verblijf tijdelijk",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "81",
+        "omschrijving": "BG-IND: Begeleiding individueel",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "82",
+        "omschrijving": "BG-GRP: Begeleiding in groepsverband",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "91",
+        "omschrijving": "ADL: ADL-assistentie",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

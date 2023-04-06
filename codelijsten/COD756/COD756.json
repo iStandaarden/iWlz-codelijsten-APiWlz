@@ -1,0 +1,170 @@
+{
+  "Codelijst": {
+    "codelijstId": "COD756",
+    "Codelijstnaam": "COD756: Klasse",
+    "Codelijstomschrijving": "Gecodeerde aanduiding van de mate van zorg betreffende een functie, uitgedrukt in een klasse.",
+    "Codelijstverwijzing": "uri",
+    "Codewaarden": [
+      {
+        "id": "99",
+        "omschrijving": "niet van toepassing",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "K0",
+        "omschrijving": "0 tot 1 uur per week (intervalbegeleiding)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "K1",
+        "omschrijving": "0 tot 2 uur per week (intervalbegeleiding)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "K2",
+        "omschrijving": "2 tot 4 uur per week (intervalbegeleiding, doorgaans meerdere keren per week, gemiddeld 3 uur per week)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "K3",
+        "omschrijving": "4 tot 7 uur per week (min of meer dagelijkse begeleiding eventueel meerdere keren per dag, gemiddeld 5 uur/w)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "K4",
+        "omschrijving": "7 tot 10 uur per week (continue begeleiding, veelal in samenhang met geclusterd wonen, al dan niet verblijf)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "K5",
+        "omschrijving": "10 tot 13 uur per week (continue begeleiding plus toezicht, met geclusterd wonen, structuurbiedend klimaat)",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "K6",
+        "omschrijving": "13 tot 16 uur per week (continue begeleiding plus toezicht, met geclusterd wonen, structuurbiedend klimaat met extra aandacht voor",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "K7",
+        "omschrijving": "16 tot 20 uur per week (continue en intensieve begeleiding, individueel en structuurverlenend, permanent toezicht,",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "K8",
+        "omschrijving": "20 tot 25 uur per week (continue begeleiding en bescherming, 24 uurs nabij, in therapeutisch leefklimaat,",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD01",
+        "omschrijving": "Een dagdeel per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD02",
+        "omschrijving": "Twee dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD03",
+        "omschrijving": "Drie dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD04",
+        "omschrijving": "Vier dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD05",
+        "omschrijving": "Vijf dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD06",
+        "omschrijving": "Zes dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD07",
+        "omschrijving": "Zeven dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD08",
+        "omschrijving": "Acht dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD09",
+        "omschrijving": "Negen dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD10",
+        "omschrijving": "Tien dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD11",
+        "omschrijving": "Elf dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD12",
+        "omschrijving": "Twaalf dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD13",
+        "omschrijving": "Dertien dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD14",
+        "omschrijving": "Veertien dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KD15",
+        "omschrijving": "Vijftien dagdelen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KE1",
+        "omschrijving": "Gemiddeld een etmaal per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KE2",
+        "omschrijving": "Gemiddeld twee etmalen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KE3",
+        "omschrijving": "Gemiddeld drie etmalen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KE4",
+        "omschrijving": "Gemiddeld vier etmalen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KE5",
+        "omschrijving": "Gemiddeld vijf etmalen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KE6",
+        "omschrijving": "Gemiddeld zes etmalen per week",
+        "ingangsdatum": "2015-01-01"
+      },
+      {
+        "id": "KE7",
+        "omschrijving": "Zeven etmalen per week",
+        "ingangsdatum": "2015-01-01"
+      }
+    ]
+  }
+}

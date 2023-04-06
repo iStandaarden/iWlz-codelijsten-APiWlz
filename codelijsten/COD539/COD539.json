@@ -1,0 +1,40 @@
+{
+    "Codelijst": {
+        "codelijstId": "COD539",
+        "Codelijstnaam": "COD539: Beperking",
+        "Codelijstomschrijving": "Aanduiding van de categorie van de beperking.",
+        "Codelijstverwijzing": "uri",
+        "Codewaarden": [
+            {
+                "id": "1",
+                "omschrijving": "Sociale redzaamheid",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "2",
+                "omschrijving": "Mobiliteit",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "3",
+                "omschrijving": "Persoonlijke zorg",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "4",
+                "omschrijving": "Huishoudelijk leven",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "5",
+                "omschrijving": "Sociale relaties en maatschappelijk leven",
+                "ingangsdatum": "2015-01-01"
+            },
+            {
+                "id": "6",
+                "omschrijving": "Deelname aan leren, werken",
+                "ingangsdatum": "2015-01-01"
+            }
+        ]
+    }
+}
