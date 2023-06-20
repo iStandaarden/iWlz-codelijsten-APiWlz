@@ -61,6 +61,8 @@
 |	COD998	|	COD998: Financiering	|V|	iWlz_2.3	|		|		|		|
 |	COD999	|	COD999: Voorkeur client	|V|	iWlz_2.3	|		|		|		|
 |	COD1001	|	COD1001: Type contactvorm	|V|		|		|		|		|
+|	COD1002	|	COD1002: Relatiecodelijst	|V|		|		|		|		|
+|	COD1003	|	COD1003: Rolcodelijst	|V|		|		|		|		|
 |	EB001	|	EB001: Retourcode	| |		|		|		|	iEb_1.0	|
 |	JZ002	|	JZ002: Reden wijziging toewijzing	| |		|		|	iJw_3.0	|		|
 |	JZ020	|	JZ020: Productcategorie	| |		|		|	iJw_3.0	|		|
