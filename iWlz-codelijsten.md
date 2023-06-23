@@ -54,8 +54,8 @@
 |[COD998: Financiering](/codelijsten/COD998)|Codering die aangeeft op basis van welke regeling de zorg gefinancierd wordt.|	V	|	V	|	V	|	V	|
 |[COD999: Voorkeur client](/codelijsten/COD999)|Gecodeerde aanduiding van de voorkeur van de client ten aanzien van plaats en/of vorm van zorglevering.|	V	|	V	|	V	|	V	|
 |[COD1001: Voorkeur contactwijze](/codelijsten/COD1001)|Gecodeerde aanduiding van de voorkeur van de client ten aanzien van de wijze waarop contact opgenomen kan worden.|	|		|		|		|
-|[COD1002: Relatiecodelijst](codelijsten/COD1002) |Definieert de familiaire relatie van de contactpersoon tot de client. (bron: zib)|	|		|		|	V	|
-|[COD1003: Rolcodelijst](codelijsten/COD1003) |Definieert de rol van de contactpersoon in relatie tot de client. (bron:zib)|	|		|		|	V	|
+|[COD1002: Relatie](codelijsten/COD1002) |Definieert de familiaire relatie van de contactpersoon tot de client. (bron: zib)|	|		|		|	V	|
+|[COD1003: Rol](codelijsten/COD1003) |Definieert de rol van de contactpersoon in relatie tot de client. (bron:zib)|	|		|		|	V	|
 |[NUM061: Aanduiding woonadres](/codelijsten/NUM061)|De aanduiding die wordt gebruikt voor adressen die niet zijn voorzien van de gebruikelijke straatnaam en huisnummeraanduidingen.|	V	|	V	|		|	V	|
 
 <sup>*</sup> IR = Indicatieregister <sup>*2</sup> iWlz 2.5 bevat alleen een netwerkrelease
