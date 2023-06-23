@@ -9,7 +9,6 @@ https://decor.nictiz.nl/art-decor/decor-valuesets--zib2020bbr-?id=2.16.840.1.113
 * [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
 
 | Codelijst | Id | Omschrijving | ingangsdatum | expiratiedatum | mutatiedatum | mutatie |
-|---|---|---|---|---|---|---|
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | COD1003 | 01 | Eerste relatie/contactpersoon | 2023-07-01 |  | 2023-07-01 | toegevoegd |
 | COD1003 | 02 | Tweede relatie/contactpersoon | 2023-07-01 |  | 2023-07-01 | toegevoegd |
@@ -31,3 +30,5 @@ https://decor.nictiz.nl/art-decor/decor-valuesets--zib2020bbr-?id=2.16.840.1.113
 | COD1003 | 100002 | Geestelijk verzorger | 2023-07-01 |  | 2023-07-01 | toegevoegd |
 | COD1003 | 100003 | Tolk | 2023-07-01 |  | 2023-07-01 | toegevoegd |
 | COD1003 | 100004 | Advocaat | 2023-07-01 |  | 2023-07-01 | toegevoegd |
+
+* [terug naar volledige iWlz codelijst](../../iWlz-codelijsten.md)
