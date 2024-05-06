@@ -137,6 +137,13 @@
         "ingangsdatum": "2021-01-01",
         "mutatiedatum": "2020-06-01",
         "mutatie": "toegevoegd"
+      },
+      {
+        "id": "20",
+        "omschrijving": "Doorstroom klinische GGZ",
+        "ingangsdatum": "2021-01-01",
+        "mutatiedatum": "2020-06-01",
+        "mutatie": "toegevoegd"
       }
     ]
   }
