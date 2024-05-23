@@ -7,28 +7,38 @@
     "Codewaarden": [
       {
         "id": "b117.0",
-        "omschrijving": "Zwakbegaafdheid",
-        "ingangsdatum": "2015-01-01"
+        "omschrijving": "Laag begaafd/moeilijk lerend",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2024-05-23",
+        "mutatie": "gewijzigd"
       },
       {
         "id": "b117.1",
-        "omschrijving": "Lichte zwakzinnigheid",
-        "ingangsdatum": "2015-01-01"
+        "omschrijving": "Lichte verstandelijke beperking/zeer moeilijk lerend",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2024-05-23",
+        "mutatie": "gewijzigd"
       },
       {
         "id": "b117.2",
-        "omschrijving": "Matige zwakzinnigheid",
-        "ingangsdatum": "2015-01-01"
+        "omschrijving": "Matige verstandelijke beperking",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2024-05-23",
+        "mutatie": "gewijzigd"
       },
       {
         "id": "b117.3",
-        "omschrijving": "Ernstige zwakzinnigheid",
-        "ingangsdatum": "2015-01-01"
+        "omschrijving": "Ernstige verstandelijke beperking",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2024-05-23",
+        "mutatie": "gewijzigd"
       },
       {
         "id": "b117.4",
-        "omschrijving": "Diepe zwakzinnigheid",
-        "ingangsdatum": "2015-01-01"
+        "omschrijving": "Zeer ernstige verstandelijke beperking",
+        "ingangsdatum": "2015-01-01",
+        "mutatiedatum": "2024-05-23",
+        "mutatie": "gewijzigd"
       },
       {
         "id": "b117.9",
