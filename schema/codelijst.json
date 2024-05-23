@@ -48,6 +48,9 @@
                       "toegevoegd",
                       "gewijzigd"
                     ]
+                  },
+                  "toelichting": {
+                    "type": "string"
                   }
                 },
                 "required": [
